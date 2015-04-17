@@ -1,0 +1,9 @@
+C:\Users\Xoli\documents\visual studio 2010\Projects\AgilityKB\AgilityKBConsole\bin\Debug\AgilityKBConsole.exe
+C:\Users\Xoli\documents\visual studio 2010\Projects\AgilityKB\AgilityKBConsole\bin\Debug\AgilityKBConsole.pdb
+C:\Users\Xoli\documents\visual studio 2010\Projects\AgilityKB\AgilityKBConsole\bin\Debug\AgilityKBDAO.dll
+C:\Users\Xoli\documents\visual studio 2010\Projects\AgilityKB\AgilityKBConsole\bin\Debug\AgilityKB.Entity.dll
+C:\Users\Xoli\documents\visual studio 2010\Projects\AgilityKB\AgilityKBConsole\bin\Debug\AgilityKBDAO.pdb
+C:\Users\Xoli\documents\visual studio 2010\Projects\AgilityKB\AgilityKBConsole\bin\Debug\AgilityKB.Entity.pdb
+C:\Users\Xoli\documents\visual studio 2010\Projects\AgilityKB\AgilityKBConsole\obj\x86\Debug\AgilityKBTesteConsole.csprojResolveAssemblyReference.cache
+C:\Users\Xoli\documents\visual studio 2010\Projects\AgilityKB\AgilityKBConsole\obj\x86\Debug\AgilityKBConsole.exe
+C:\Users\Xoli\documents\visual studio 2010\Projects\AgilityKB\AgilityKBConsole\obj\x86\Debug\AgilityKBConsole.pdb

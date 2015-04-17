@@ -1,0 +1,61 @@
+﻿.conteudoForm
+{
+	width: 600px;
+	height: 380px;
+	margin: 10px 250px 10px 350px;
+	margin: 10px 250px 5px 390px\0/IE9;
+	border: 1px solid;
+}
+
+.conteudoLogin
+{
+	width: 420px;
+	height: 70px;
+	margin: 10px 70px 10px 20px;
+	float: right;
+}
+
+.conteudoErros
+{
+	width: 420px;
+	height: 70px;
+	margin: 10px 70px 10px 20px;
+	float: right;
+}
+
+.lblLogin
+{
+	width: 200px;
+	height: 30px;
+	font-family: "Helvetica Neue" , "Lucida Grande" , "Segoe UI" , Arial, Helvetica, Verdana, sans-serif;
+	font-size: 14px;
+	margin: 10px 10px 10px 5px;
+}
+
+.txtLogin
+{
+	width: 290px;
+	height: 20px;
+	font-family: "Helvetica Neue" , "Lucida Grande" , "Segoe UI" , Arial, Helvetica, Verdana, sans-serif;
+	font-size: 14px;
+	margin: 10px 10px 10px 5px;
+}
+
+.btnEnviar
+{
+	width: 80px;
+	height: 30px;
+	font-family: "Helvetica Neue" , "Lucida Grande" , "Segoe UI" , Arial, Helvetica, Verdana, sans-serif;
+	font-size: 14px;
+	float: right;
+	margin-right: 65px;
+}
+
+.lblErros
+{
+	font-family: "Helvetica Neue" , "Lucida Grande" , "Segoe UI" , Arial, Helvetica, Verdana, sans-serif;
+	color: Red;
+	text-align: center;
+	font-size: 13px;
+	width: 290px;
+}

@@ -1,0 +1,89 @@
+﻿#carousel
+{
+	width: 255px;
+	height: 150px;
+	margin: 5px 0 0 220px;
+	margin: 5px 0 0 230px\0/IE9;
+	float:left;
+}
+
+#slides
+{
+	overflow: hidden; /* fix ie overflow issue */
+	position: relative;
+	width: 865px;
+	height: 260px;
+}
+
+/* remove the list styles, width : item width * total items */
+#slides ul
+{
+	position: relative;
+	right: 0;
+	top: 0;
+	list-style: none;
+	margin: 0;
+	padding: 0;
+	width: 1800px;
+}
+
+/* width of the item, in this case I put 250x250x gif */
+#slides li
+{	
+	height: 250px;
+	float: left;
+}
+
+#slides li img
+{
+	padding: 5px;
+}
+
+/* Styling for prev and next buttons */
+#buttons
+{
+	padding: 0 0 5px 0;
+	width: 850px;
+}
+
+#buttons a
+{
+	display: block;
+	width: 240px;
+	height: 32px;
+	text-indent: -999em;
+	outline: 0;
+	cursor:pointer;
+}
+
+a#prev
+{
+	background: url("/Styles/Images/ImagensPersonalizadas/SetaDireita.png") no-repeat;
+	width: 32px;
+	float: right;
+	border: 0;
+}
+
+a#prev:hover
+{
+	background: url("/Styles/Images/ImagensPersonalizadas/SetaDireita.png") no-repeat;
+
+}
+
+a#next
+{
+	background: url("/Styles/Images/ImagensPersonalizadas/SetaEsquerda.png") no-repeat;
+	width: 32px;
+	float: left;
+	border: 0;
+}
+
+a#next:hover
+{
+	background: url("/Styles/Images/ImagensPersonalizadas/SetaEsquerda.png") no-repeat;
+}
+
+.clear
+{
+	clear: both;
+}

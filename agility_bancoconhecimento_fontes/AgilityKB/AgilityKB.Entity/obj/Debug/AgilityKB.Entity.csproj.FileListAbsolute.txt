@@ -1,0 +1,4 @@
+C:\Users\Xoli\documents\visual studio 2010\Projects\AgilityKB\AgilityKB.Entity\bin\Debug\AgilityKB.Entity.dll
+C:\Users\Xoli\documents\visual studio 2010\Projects\AgilityKB\AgilityKB.Entity\bin\Debug\AgilityKB.Entity.pdb
+C:\Users\Xoli\documents\visual studio 2010\Projects\AgilityKB\AgilityKB.Entity\obj\Debug\AgilityKB.Entity.dll
+C:\Users\Xoli\documents\visual studio 2010\Projects\AgilityKB\AgilityKB.Entity\obj\Debug\AgilityKB.Entity.pdb

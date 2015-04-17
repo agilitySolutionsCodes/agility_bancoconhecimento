@@ -1,0 +1,48 @@
+﻿body {
+    background-image: url("../../Styles/Images/FundoSite.jpg");
+    background-repeat: repeat-x;
+    font-size: .80em;
+    font-family: Arial Narrow;
+    margin: 0px;
+    padding: 0px;
+    color: #696969;
+}
+
+.CorpoPagina {
+    width: 1250px;
+    min-height: 400px;
+}
+
+.tituloExp
+{
+	font-weight: 500;
+	margin: 0px;
+	padding: 90px 0px 0px 70px;
+	padding: 75px 0px 0px 20px\0/IE9;
+	color: #3A4F63;
+	border: none;
+	font-size: 38px;
+	text-align: center;
+}
+
+.conteudoExp
+{
+	font-weight: 500;
+	margin: 0px;
+	padding: 90px 0px 0px 70px;
+	padding: 75px 0px 0px 20px\0/IE9;
+	color: #3A4F63;
+	border: none;
+	font-size: 16px;
+	text-align: center;
+}
+
+.btnVoltar 
+{
+	width: 90px;
+	height: 30px;
+	font-family: Arial Narrow;
+	font-size: 14px;
+    float: right;
+	margin: 50px 1px 5px 5px;
+}

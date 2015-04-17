@@ -1,0 +1,37 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="BackOffice.master.cs"
+    Inherits="AgilityKB.BackOffice.BackOffice" %>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <link href="Css/BackOfficeMaster.css" rel="stylesheet" type="text/css" />
+    <link rel="icon" type="image/png" href="../Styles/Images/agility_favicon.jpg" />
+    <link rel="shortcut icon" href="../Styles/Images/agility_favicon.jpg" />
+    <asp:ContentPlaceHolder ID="HeaderContent" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+    <form runat="server">
+    <div id="Head" class="head">
+        <div id="DvUsuario" class="dvUsuario" runat="server">
+            <asp:LinkButton ID="LnkLogout" CssClass="lnkLogout" runat="server" Visible="false"
+                Text="Sair" OnClick="LnkLogout_Click"></asp:LinkButton>
+            <asp:Label ID="LblUserLogado" CssClass="lblUserLogado" Visible="false" runat="server"></asp:Label>
+            <asp:Image ID="ImgUsuarioLogado" CssClass="imgUsuarioLogado" Visible="false" runat="server" />
+        </div>
+        <div id="TituloForm" class="tituloForm">
+            <div id="Logo">
+                <img alt="" class="imgLogo" src="../Styles/Images/ImagensPersonalizadas/LogoAgility_Reduzido.png"/>
+            </div>
+            BackOffice Agility KB
+        </div>
+    </div>
+    <div id="Page" class="page">
+        <asp:ContentPlaceHolder ID="MainContent" runat="server">
+        </asp:ContentPlaceHolder>
+    </div>
+    <div class="Footer">
+    </div>
+    </form>
+</body>
+</html>

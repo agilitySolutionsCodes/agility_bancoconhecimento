@@ -1,0 +1,306 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit http://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="Account/ChangePassword.aspx">
+      <publishTime>01/31/2013 12:41:00</publishTime>
+    </File>
+    <File Include="Account/ChangePasswordSuccess.aspx">
+      <publishTime>01/31/2013 12:41:00</publishTime>
+    </File>
+    <File Include="Account/Login.aspx">
+      <publishTime>01/31/2013 12:41:00</publishTime>
+    </File>
+    <File Include="Account/Register.aspx">
+      <publishTime>01/31/2013 12:41:00</publishTime>
+    </File>
+    <File Include="Account/Web.config">
+      <publishTime>01/31/2013 12:41:00</publishTime>
+    </File>
+    <File Include="AgilityKB.Master">
+      <publishTime>07/16/2013 10:31:35</publishTime>
+    </File>
+    <File Include="BackOffice/BackOffice.Master">
+      <publishTime>07/16/2013 10:37:18</publishTime>
+    </File>
+    <File Include="BackOffice/CadastroCategorias.aspx">
+      <publishTime>06/11/2013 14:56:51</publishTime>
+    </File>
+    <File Include="BackOffice/CadastroUsuarios.aspx">
+      <publishTime>07/15/2013 15:25:15</publishTime>
+    </File>
+    <File Include="BackOffice/CategoriasCadastro.aspx">
+      <publishTime>03/20/2013 10:20:38</publishTime>
+    </File>
+    <File Include="BackOffice/Css/BackOfficeMaster.css">
+      <publishTime>07/16/2013 10:59:15</publishTime>
+    </File>
+    <File Include="BackOffice/Css/CadastroCategorias.css">
+      <publishTime>03/15/2013 16:32:35</publishTime>
+    </File>
+    <File Include="BackOffice/Css/CadastroUsuarios.css">
+      <publishTime>04/19/2013 15:59:50</publishTime>
+    </File>
+    <File Include="BackOffice/Css/Home.css">
+      <publishTime>07/16/2013 10:48:48</publishTime>
+    </File>
+    <File Include="BackOffice/Css/Login.css">
+      <publishTime>03/14/2013 15:46:24</publishTime>
+    </File>
+    <File Include="BackOffice/Home.aspx">
+      <publishTime>07/16/2013 11:09:25</publishTime>
+    </File>
+    <File Include="BackOffice/Login.aspx">
+      <publishTime>03/08/2013 11:15:31</publishTime>
+    </File>
+    <File Include="Biblioteca.aspx">
+      <publishTime>03/05/2013 10:53:18</publishTime>
+    </File>
+    <File Include="bin/AgilityKB.Business.dll">
+      <publishTime>07/16/2013 11:26:28</publishTime>
+    </File>
+    <File Include="bin/AgilityKB.dll">
+      <publishTime>07/16/2013 11:26:29</publishTime>
+    </File>
+    <File Include="bin/AgilityKB.Entity.dll">
+      <publishTime>07/16/2013 11:26:28</publishTime>
+    </File>
+    <File Include="bin/AgilityKBDAO.dll">
+      <publishTime>07/16/2013 11:26:28</publishTime>
+    </File>
+    <File Include="bin/AjaxControlToolkit.dll">
+      <publishTime>01/31/2013 12:41:00</publishTime>
+    </File>
+    <File Include="bin/ar/AjaxControlToolkit.resources.dll">
+      <publishTime>01/31/2013 12:41:00</publishTime>
+    </File>
+    <File Include="bin/cs/AjaxControlToolkit.resources.dll">
+      <publishTime>01/31/2013 12:41:00</publishTime>
+    </File>
+    <File Include="bin/de/AjaxControlToolkit.resources.dll">
+      <publishTime>01/31/2013 12:41:00</publishTime>
+    </File>
+    <File Include="bin/es/AjaxControlToolkit.resources.dll">
+      <publishTime>01/31/2013 12:41:00</publishTime>
+    </File>
+    <File Include="bin/fr/AjaxControlToolkit.resources.dll">
+      <publishTime>01/31/2013 12:41:00</publishTime>
+    </File>
+    <File Include="bin/he/AjaxControlToolkit.resources.dll">
+      <publishTime>01/31/2013 12:41:00</publishTime>
+    </File>
+    <File Include="bin/hi/AjaxControlToolkit.resources.dll">
+      <publishTime>01/31/2013 12:41:00</publishTime>
+    </File>
+    <File Include="bin/HtmlAgilityPack.dll">
+      <publishTime>01/31/2013 12:41:00</publishTime>
+    </File>
+    <File Include="bin/it/AjaxControlToolkit.resources.dll">
+      <publishTime>01/31/2013 12:41:00</publishTime>
+    </File>
+    <File Include="bin/ja/AjaxControlToolkit.resources.dll">
+      <publishTime>01/31/2013 12:41:00</publishTime>
+    </File>
+    <File Include="bin/ko/AjaxControlToolkit.resources.dll">
+      <publishTime>01/31/2013 12:41:00</publishTime>
+    </File>
+    <File Include="bin/nl/AjaxControlToolkit.resources.dll">
+      <publishTime>01/31/2013 12:41:00</publishTime>
+    </File>
+    <File Include="bin/pt/AjaxControlToolkit.resources.dll">
+      <publishTime>01/31/2013 12:41:00</publishTime>
+    </File>
+    <File Include="bin/ru/AjaxControlToolkit.resources.dll">
+      <publishTime>01/31/2013 12:41:00</publishTime>
+    </File>
+    <File Include="bin/SanitizerProviders.dll">
+      <publishTime>01/31/2013 12:41:00</publishTime>
+    </File>
+    <File Include="bin/tr-TR/AjaxControlToolkit.resources.dll">
+      <publishTime>01/31/2013 12:41:00</publishTime>
+    </File>
+    <File Include="bin/zh-CHS/AjaxControlToolkit.resources.dll">
+      <publishTime>01/31/2013 12:41:00</publishTime>
+    </File>
+    <File Include="bin/zh-CHT/AjaxControlToolkit.resources.dll">
+      <publishTime>01/31/2013 12:41:00</publishTime>
+    </File>
+    <File Include="Contatos.aspx">
+      <publishTime>07/04/2013 10:25:55</publishTime>
+    </File>
+    <File Include="Controles/ControleArvore.ascx">
+      <publishTime>01/31/2013 12:41:00</publishTime>
+    </File>
+    <File Include="Controles/MenuLateral.ascx">
+      <publishTime>01/31/2013 12:41:00</publishTime>
+    </File>
+    <File Include="CriacaoPosts.aspx">
+      <publishTime>03/18/2013 11:15:12</publishTime>
+    </File>
+    <File Include="Erro.aspx">
+      <publishTime>03/18/2013 12:17:50</publishTime>
+    </File>
+    <File Include="Global.asax">
+      <publishTime>01/31/2013 12:41:00</publishTime>
+    </File>
+    <File Include="Home.aspx">
+      <publishTime>07/16/2013 11:24:58</publishTime>
+    </File>
+    <File Include="Ops.aspx">
+      <publishTime>03/19/2013 13:45:17</publishTime>
+    </File>
+    <File Include="packages.config">
+      <publishTime>01/31/2013 12:41:00</publishTime>
+    </File>
+    <File Include="PoliticaPrivacidade.aspx">
+      <publishTime>01/31/2013 12:41:00</publishTime>
+    </File>
+    <File Include="Scripts/Customizado/AgilityKB.js">
+      <publishTime>04/15/2013 18:36:14</publishTime>
+    </File>
+    <File Include="Scripts/Customizado/Mascaras.js">
+      <publishTime>03/06/2013 13:06:42</publishTime>
+    </File>
+    <File Include="Scripts/JQuery/jquery-1.4.1-vsdoc.js">
+      <publishTime>03/05/2013 10:03:19</publishTime>
+    </File>
+    <File Include="Scripts/JQuery/jquery-1.4.1.js">
+      <publishTime>01/31/2013 12:41:00</publishTime>
+    </File>
+    <File Include="Scripts/JQuery/jquery-1.4.1.min.js">
+      <publishTime>01/31/2013 12:41:00</publishTime>
+    </File>
+    <File Include="Scripts/JQuery/jquery-1.6.3.js">
+      <publishTime>01/31/2013 12:41:00</publishTime>
+    </File>
+    <File Include="Scripts/JQuery/jquery-1.6.3.min.js">
+      <publishTime>01/31/2013 12:41:00</publishTime>
+    </File>
+    <File Include="Scripts/JQuery/jquery-1.6.4.js">
+      <publishTime>01/31/2013 12:41:00</publishTime>
+    </File>
+    <File Include="Scripts/JQuery/jquery-1.6.4.min.js">
+      <publishTime>01/31/2013 12:41:00</publishTime>
+    </File>
+    <File Include="Scripts/JQuery/jquery-1.7.1.js">
+      <publishTime>01/31/2013 12:41:00</publishTime>
+    </File>
+    <File Include="Scripts/JQuery/jquery-1.7.1.min.js">
+      <publishTime>01/31/2013 12:41:00</publishTime>
+    </File>
+    <File Include="Scripts/JQuery/jquery-1.7.2.js">
+      <publishTime>03/05/2013 10:53:10</publishTime>
+    </File>
+    <File Include="Scripts/JQuery/jquery-1.7.2.min.js">
+      <publishTime>01/31/2013 12:41:00</publishTime>
+    </File>
+    <File Include="Servicos/ServicosBC.asmx">
+      <publishTime>01/31/2013 12:41:00</publishTime>
+    </File>
+    <File Include="Sobre.aspx">
+      <publishTime>07/04/2013 10:38:05</publishTime>
+    </File>
+    <File Include="Styles/Css/Biblioteca.css">
+      <publishTime>03/05/2013 17:33:44</publishTime>
+    </File>
+    <File Include="Styles/Css/Busca.css">
+      <publishTime>01/31/2013 12:41:00</publishTime>
+    </File>
+    <File Include="Styles/Css/Contatos.css">
+      <publishTime>01/31/2013 12:41:00</publishTime>
+    </File>
+    <File Include="Styles/Css/Error.css">
+      <publishTime>03/19/2013 13:59:25</publishTime>
+    </File>
+    <File Include="Styles/Css/Home.css">
+      <publishTime>03/18/2013 16:23:16</publishTime>
+    </File>
+    <File Include="Styles/Css/JQueryCarrousel.css">
+      <publishTime>01/31/2013 12:41:00</publishTime>
+    </File>
+    <File Include="Styles/Css/Master.css">
+      <publishTime>07/16/2013 10:59:00</publishTime>
+    </File>
+    <File Include="Styles/Css/MenuLateral.css">
+      <publishTime>01/31/2013 12:41:00</publishTime>
+    </File>
+    <File Include="Styles/Css/PoliticaPrivacidade.css">
+      <publishTime>01/31/2013 12:41:00</publishTime>
+    </File>
+    <File Include="Styles/Css/Posts.css">
+      <publishTime>03/14/2013 13:17:58</publishTime>
+    </File>
+    <File Include="Styles/Css/Sobre.css">
+      <publishTime>01/31/2013 12:41:00</publishTime>
+    </File>
+    <File Include="Styles/Css/TermosDeUso.css">
+      <publishTime>05/21/2013 11:52:34</publishTime>
+    </File>
+    <File Include="Styles/Images/agility_favicon.ico">
+      <publishTime>01/31/2013 12:41:00</publishTime>
+    </File>
+    <File Include="Styles/Images/agility_favicon.jpg">
+      <publishTime>01/31/2013 12:41:00</publishTime>
+    </File>
+    <File Include="Styles/Images/EuaFlag.jpg">
+      <publishTime>01/31/2013 12:41:00</publishTime>
+    </File>
+    <File Include="Styles/Images/FundoSite.jpg">
+      <publishTime>01/31/2013 12:41:00</publishTime>
+    </File>
+    <File Include="Styles/Images/ImagensGenericas/Icon_Donwload.png">
+      <publishTime>01/31/2013 12:41:00</publishTime>
+    </File>
+    <File Include="Styles/Images/ImagensGenericas/Icon_Search.png">
+      <publishTime>01/31/2013 12:41:00</publishTime>
+    </File>
+    <File Include="Styles/Images/ImagensGenericas/Img_Editar.gif">
+      <publishTime>01/31/2013 12:41:00</publishTime>
+    </File>
+    <File Include="Styles/Images/ImagensGenericas/Img_Excluir.png">
+      <publishTime>01/31/2013 12:41:00</publishTime>
+    </File>
+    <File Include="Styles/Images/ImagensPersonalizadas/BackGroundPage.png">
+      <publishTime>01/31/2013 12:41:00</publishTime>
+    </File>
+    <File Include="Styles/Images/ImagensPersonalizadas/BotaoEnviar.png">
+      <publishTime>01/31/2013 12:41:00</publishTime>
+    </File>
+    <File Include="Styles/Images/ImagensPersonalizadas/LogoAgility_Reduzido.png">
+      <publishTime>01/31/2013 12:41:00</publishTime>
+    </File>
+    <File Include="Styles/Images/ImagensPersonalizadas/SetaDireita.png">
+      <publishTime>01/31/2013 12:41:00</publishTime>
+    </File>
+    <File Include="Styles/Images/ImagensPersonalizadas/SetaEsquerda.png">
+      <publishTime>01/31/2013 12:41:00</publishTime>
+    </File>
+    <File Include="Styles/Images/ImagensPersonalizadas/slide1.gif">
+      <publishTime>01/31/2013 12:41:00</publishTime>
+    </File>
+    <File Include="Styles/Images/ImagensPersonalizadas/slide2.gif">
+      <publishTime>01/31/2013 12:41:00</publishTime>
+    </File>
+    <File Include="Styles/Images/ImagensPersonalizadas/slide3.gif">
+      <publishTime>01/31/2013 12:41:00</publishTime>
+    </File>
+    <File Include="TermosUso.aspx">
+      <publishTime>05/21/2013 13:58:09</publishTime>
+    </File>
+    <File Include="Uploads/Arquivos/Logo_Agility.jpg">
+      <publishTime>01/31/2013 12:41:00</publishTime>
+    </File>
+    <File Include="Uploads/Imgs/YuleFoto.JPG">
+      <publishTime>03/06/2013 15:24:29</publishTime>
+    </File>
+    <File Include="Web.config">
+      <publishTime>07/16/2013 11:26:33</publishTime>
+    </File>
+  </ItemGroup>
+</Project>

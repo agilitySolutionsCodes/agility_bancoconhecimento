@@ -1,0 +1,18 @@
+C:\Users\Xoli\Documents\Visual Studio 2010\Projects\AgilityKB\AgilityKB.Business\bin\Release\AgilityKB.Business.dll
+C:\Users\Xoli\Documents\Visual Studio 2010\Projects\AgilityKB\AgilityKB.Business\bin\Release\AgilityKB.Business.pdb
+C:\Users\Xoli\Documents\Visual Studio 2010\Projects\AgilityKB\AgilityKB.Business\bin\Release\AgilityKB.Entity.dll
+C:\Users\Xoli\Documents\Visual Studio 2010\Projects\AgilityKB\AgilityKB.Business\bin\Release\AgilityKBDAO.dll
+C:\Users\Xoli\Documents\Visual Studio 2010\Projects\AgilityKB\AgilityKB.Business\bin\Release\AgilityKB.Entity.pdb
+C:\Users\Xoli\Documents\Visual Studio 2010\Projects\AgilityKB\AgilityKB.Business\bin\Release\AgilityKBDAO.pdb
+C:\Users\Xoli\Documents\Visual Studio 2010\Projects\AgilityKB\AgilityKB.Business\obj\Release\AgilityKB.Business.csprojResolveAssemblyReference.cache
+C:\Users\Xoli\Documents\Visual Studio 2010\Projects\AgilityKB\AgilityKB.Business\obj\Release\AgilityKB.Business.dll
+C:\Users\Xoli\Documents\Visual Studio 2010\Projects\AgilityKB\AgilityKB.Business\obj\Release\AgilityKB.Business.pdb
+C:\Projetos\agility_bancoconhecimento\agility_bancoconhecimento_fontes\AgilityKB.Business\bin\Release\AgilityKB.Business.dll
+C:\Projetos\agility_bancoconhecimento\agility_bancoconhecimento_fontes\AgilityKB.Business\bin\Release\AgilityKB.Business.pdb
+C:\Projetos\agility_bancoconhecimento\agility_bancoconhecimento_fontes\AgilityKB.Business\bin\Release\AgilityKB.Entity.dll
+C:\Projetos\agility_bancoconhecimento\agility_bancoconhecimento_fontes\AgilityKB.Business\bin\Release\AgilityKBDAO.dll
+C:\Projetos\agility_bancoconhecimento\agility_bancoconhecimento_fontes\AgilityKB.Business\bin\Release\AgilityKB.Entity.pdb
+C:\Projetos\agility_bancoconhecimento\agility_bancoconhecimento_fontes\AgilityKB.Business\bin\Release\AgilityKBDAO.pdb
+C:\Projetos\agility_bancoconhecimento\agility_bancoconhecimento_fontes\AgilityKB.Business\obj\Release\AgilityKB.Business.csprojResolveAssemblyReference.cache
+C:\Projetos\agility_bancoconhecimento\agility_bancoconhecimento_fontes\AgilityKB.Business\obj\Release\AgilityKB.Business.dll
+C:\Projetos\agility_bancoconhecimento\agility_bancoconhecimento_fontes\AgilityKB.Business\obj\Release\AgilityKB.Business.pdb

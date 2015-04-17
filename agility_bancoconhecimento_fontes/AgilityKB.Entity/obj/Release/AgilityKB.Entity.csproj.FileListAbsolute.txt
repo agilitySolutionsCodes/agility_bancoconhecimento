@@ -1,0 +1,9 @@
+C:\Users\Xoli\Documents\Visual Studio 2010\Projects\AgilityKB\AgilityKB.Entity\bin\Release\AgilityKB.Entity.dll
+C:\Users\Xoli\Documents\Visual Studio 2010\Projects\AgilityKB\AgilityKB.Entity\bin\Release\AgilityKB.Entity.pdb
+C:\Users\Xoli\Documents\Visual Studio 2010\Projects\AgilityKB\AgilityKB.Entity\obj\Release\AgilityKB.Entity.csprojResolveAssemblyReference.cache
+C:\Users\Xoli\Documents\Visual Studio 2010\Projects\AgilityKB\AgilityKB.Entity\obj\Release\AgilityKB.Entity.dll
+C:\Users\Xoli\Documents\Visual Studio 2010\Projects\AgilityKB\AgilityKB.Entity\obj\Release\AgilityKB.Entity.pdb
+C:\Projetos\agility_bancoconhecimento\agility_bancoconhecimento_fontes\AgilityKB.Entity\bin\Release\AgilityKB.Entity.dll
+C:\Projetos\agility_bancoconhecimento\agility_bancoconhecimento_fontes\AgilityKB.Entity\bin\Release\AgilityKB.Entity.pdb
+C:\Projetos\agility_bancoconhecimento\agility_bancoconhecimento_fontes\AgilityKB.Entity\obj\Release\AgilityKB.Entity.dll
+C:\Projetos\agility_bancoconhecimento\agility_bancoconhecimento_fontes\AgilityKB.Entity\obj\Release\AgilityKB.Entity.pdb

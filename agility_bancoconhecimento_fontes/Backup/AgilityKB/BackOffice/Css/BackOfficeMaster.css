@@ -1,0 +1,82 @@
+﻿body
+{
+	background-image: url("/BancoConhecimento/Styles/Images/FundoSite.jpg");
+	background-repeat: repeat-x;
+	font-size: .80em;
+	font-family: "Helvetica Neue" , "Lucida Grande" , "Segoe UI" , Arial, Helvetica, Verdana, sans-serif;
+	margin: 0px;
+	padding: 0px;
+	color: #696969;
+}
+
+.page
+{
+	margin: 1px 1px 1px 1px;
+}
+
+.tituloForm
+{
+	width: 600px;
+	height: 150px;
+	margin: 5px 250px 5px 350px;
+	margin: 5px 250px 5px 390px\0/IE9;
+	font-family: "Helvetica Neue" , "Lucida Grande" , "Segoe UI" , Arial, Helvetica, Verdana, sans-serif;
+	font-size: 32px;
+	color: #3A4F63;
+	text-align: center;
+}
+
+#Logo
+{
+	width: 600px;
+	height: 100px;
+}
+
+.imgLogo
+{
+	margin: 10px 0 0 1px;
+	border: 0;
+}
+
+
+.dvUsuario
+{
+	float: right;
+	height: 50px;
+	width: 300px;
+	margin: 7px 10px 1px 1px;
+	font-family: "Helvetica Neue" , "Lucida Grande" , "Segoe UI" , Arial, Helvetica, Verdana, sans-serif;
+	font-size: 14px;
+}
+
+
+.lblUserLogado
+{
+	font-family: "Helvetica Neue" , "Lucida Grande" , "Segoe UI" , Arial, Helvetica, Verdana, sans-serif;
+	font-size: 14px;
+	text-align: left;
+	margin: 1px 10px 1px 1px;
+	float: right;
+	color: #3A4F63;
+	margin-top: 2px;
+}
+
+.lnkLogout
+{
+	font-family: "Helvetica Neue" , "Lucida Grande" , "Segoe UI" , Arial, Helvetica, Verdana, sans-serif;
+	font-size: 14px;
+	text-align: left;
+	margin: 2px 1px 0px 1px;
+	float: right;
+	color: #3A4F63;
+	font-weight: 600;
+}
+
+.imgUsuarioLogado
+{
+	margin-right: 5px;
+	width: 32px;
+	height: 25px;
+	border: 1px solid;
+	float: right;
+}

@@ -1,0 +1,93 @@
+C:\Users\Xoli\Documents\Visual Studio 2010\Projects\AgilityKB\AgilityKB\bin\AgilityKB.dll
+C:\Users\Xoli\Documents\Visual Studio 2010\Projects\AgilityKB\AgilityKB\bin\AgilityKB.pdb
+C:\Users\Xoli\Documents\Visual Studio 2010\Projects\AgilityKB\AgilityKB\bin\AgilityKB.Business.dll
+C:\Users\Xoli\Documents\Visual Studio 2010\Projects\AgilityKB\AgilityKB\bin\AgilityKB.Entity.dll
+C:\Users\Xoli\Documents\Visual Studio 2010\Projects\AgilityKB\AgilityKB\bin\AgilityKBDAO.dll
+C:\Users\Xoli\Documents\Visual Studio 2010\Projects\AgilityKB\AgilityKB\bin\AjaxControlToolkit.dll
+C:\Users\Xoli\Documents\Visual Studio 2010\Projects\AgilityKB\AgilityKB\bin\HtmlAgilityPack.dll
+C:\Users\Xoli\Documents\Visual Studio 2010\Projects\AgilityKB\AgilityKB\bin\SanitizerProviders.dll
+C:\Users\Xoli\Documents\Visual Studio 2010\Projects\AgilityKB\AgilityKB\bin\AgilityKB.Business.pdb
+C:\Users\Xoli\Documents\Visual Studio 2010\Projects\AgilityKB\AgilityKB\bin\AgilityKB.Entity.pdb
+C:\Users\Xoli\Documents\Visual Studio 2010\Projects\AgilityKB\AgilityKB\bin\AgilityKBDAO.pdb
+C:\Users\Xoli\Documents\Visual Studio 2010\Projects\AgilityKB\AgilityKB\bin\AjaxControlToolkit.pdb
+C:\Users\Xoli\Documents\Visual Studio 2010\Projects\AgilityKB\AgilityKB\bin\ar\AjaxControlToolkit.resources.dll
+C:\Users\Xoli\Documents\Visual Studio 2010\Projects\AgilityKB\AgilityKB\bin\cs\AjaxControlToolkit.resources.dll
+C:\Users\Xoli\Documents\Visual Studio 2010\Projects\AgilityKB\AgilityKB\bin\de\AjaxControlToolkit.resources.dll
+C:\Users\Xoli\Documents\Visual Studio 2010\Projects\AgilityKB\AgilityKB\bin\es\AjaxControlToolkit.resources.dll
+C:\Users\Xoli\Documents\Visual Studio 2010\Projects\AgilityKB\AgilityKB\bin\fr\AjaxControlToolkit.resources.dll
+C:\Users\Xoli\Documents\Visual Studio 2010\Projects\AgilityKB\AgilityKB\bin\he\AjaxControlToolkit.resources.dll
+C:\Users\Xoli\Documents\Visual Studio 2010\Projects\AgilityKB\AgilityKB\bin\hi\AjaxControlToolkit.resources.dll
+C:\Users\Xoli\Documents\Visual Studio 2010\Projects\AgilityKB\AgilityKB\bin\it\AjaxControlToolkit.resources.dll
+C:\Users\Xoli\Documents\Visual Studio 2010\Projects\AgilityKB\AgilityKB\bin\ja\AjaxControlToolkit.resources.dll
+C:\Users\Xoli\Documents\Visual Studio 2010\Projects\AgilityKB\AgilityKB\bin\ko\AjaxControlToolkit.resources.dll
+C:\Users\Xoli\Documents\Visual Studio 2010\Projects\AgilityKB\AgilityKB\bin\nl\AjaxControlToolkit.resources.dll
+C:\Users\Xoli\Documents\Visual Studio 2010\Projects\AgilityKB\AgilityKB\bin\pt\AjaxControlToolkit.resources.dll
+C:\Users\Xoli\Documents\Visual Studio 2010\Projects\AgilityKB\AgilityKB\bin\ru\AjaxControlToolkit.resources.dll
+C:\Users\Xoli\Documents\Visual Studio 2010\Projects\AgilityKB\AgilityKB\bin\tr-TR\AjaxControlToolkit.resources.dll
+C:\Users\Xoli\Documents\Visual Studio 2010\Projects\AgilityKB\AgilityKB\bin\zh-CHS\AjaxControlToolkit.resources.dll
+C:\Users\Xoli\Documents\Visual Studio 2010\Projects\AgilityKB\AgilityKB\bin\zh-CHT\AjaxControlToolkit.resources.dll
+C:\Users\Xoli\Documents\Visual Studio 2010\Projects\AgilityKB\AgilityKB\obj\Debug\AgilityKB.csprojResolveAssemblyReference.cache
+C:\Users\Xoli\Documents\Visual Studio 2010\Projects\AgilityKB\AgilityKB\obj\Debug\AgilityKB.dll
+C:\Users\Xoli\Documents\Visual Studio 2010\Projects\AgilityKB\AgilityKB\obj\Debug\AgilityKB.pdb
+C:\Projetos\Desenv\agility_bancoconhecimento\agility_bancoconhecimento_fontes\AgilityKB\bin\AgilityKB.dll
+C:\Projetos\Desenv\agility_bancoconhecimento\agility_bancoconhecimento_fontes\AgilityKB\bin\AgilityKB.pdb
+C:\Projetos\Desenv\agility_bancoconhecimento\agility_bancoconhecimento_fontes\AgilityKB\bin\AgilityKB.Business.dll
+C:\Projetos\Desenv\agility_bancoconhecimento\agility_bancoconhecimento_fontes\AgilityKB\bin\AgilityKB.Entity.dll
+C:\Projetos\Desenv\agility_bancoconhecimento\agility_bancoconhecimento_fontes\AgilityKB\bin\AgilityKBDAO.dll
+C:\Projetos\Desenv\agility_bancoconhecimento\agility_bancoconhecimento_fontes\AgilityKB\bin\AjaxControlToolkit.dll
+C:\Projetos\Desenv\agility_bancoconhecimento\agility_bancoconhecimento_fontes\AgilityKB\bin\HtmlAgilityPack.dll
+C:\Projetos\Desenv\agility_bancoconhecimento\agility_bancoconhecimento_fontes\AgilityKB\bin\SanitizerProviders.dll
+C:\Projetos\Desenv\agility_bancoconhecimento\agility_bancoconhecimento_fontes\AgilityKB\bin\AgilityKB.Business.pdb
+C:\Projetos\Desenv\agility_bancoconhecimento\agility_bancoconhecimento_fontes\AgilityKB\bin\AgilityKB.Entity.pdb
+C:\Projetos\Desenv\agility_bancoconhecimento\agility_bancoconhecimento_fontes\AgilityKB\bin\AgilityKBDAO.pdb
+C:\Projetos\Desenv\agility_bancoconhecimento\agility_bancoconhecimento_fontes\AgilityKB\bin\AjaxControlToolkit.pdb
+C:\Projetos\Desenv\agility_bancoconhecimento\agility_bancoconhecimento_fontes\AgilityKB\bin\ar\AjaxControlToolkit.resources.dll
+C:\Projetos\Desenv\agility_bancoconhecimento\agility_bancoconhecimento_fontes\AgilityKB\bin\cs\AjaxControlToolkit.resources.dll
+C:\Projetos\Desenv\agility_bancoconhecimento\agility_bancoconhecimento_fontes\AgilityKB\bin\de\AjaxControlToolkit.resources.dll
+C:\Projetos\Desenv\agility_bancoconhecimento\agility_bancoconhecimento_fontes\AgilityKB\bin\es\AjaxControlToolkit.resources.dll
+C:\Projetos\Desenv\agility_bancoconhecimento\agility_bancoconhecimento_fontes\AgilityKB\bin\fr\AjaxControlToolkit.resources.dll
+C:\Projetos\Desenv\agility_bancoconhecimento\agility_bancoconhecimento_fontes\AgilityKB\bin\he\AjaxControlToolkit.resources.dll
+C:\Projetos\Desenv\agility_bancoconhecimento\agility_bancoconhecimento_fontes\AgilityKB\bin\hi\AjaxControlToolkit.resources.dll
+C:\Projetos\Desenv\agility_bancoconhecimento\agility_bancoconhecimento_fontes\AgilityKB\bin\it\AjaxControlToolkit.resources.dll
+C:\Projetos\Desenv\agility_bancoconhecimento\agility_bancoconhecimento_fontes\AgilityKB\bin\ja\AjaxControlToolkit.resources.dll
+C:\Projetos\Desenv\agility_bancoconhecimento\agility_bancoconhecimento_fontes\AgilityKB\bin\ko\AjaxControlToolkit.resources.dll
+C:\Projetos\Desenv\agility_bancoconhecimento\agility_bancoconhecimento_fontes\AgilityKB\bin\nl\AjaxControlToolkit.resources.dll
+C:\Projetos\Desenv\agility_bancoconhecimento\agility_bancoconhecimento_fontes\AgilityKB\bin\pt\AjaxControlToolkit.resources.dll
+C:\Projetos\Desenv\agility_bancoconhecimento\agility_bancoconhecimento_fontes\AgilityKB\bin\ru\AjaxControlToolkit.resources.dll
+C:\Projetos\Desenv\agility_bancoconhecimento\agility_bancoconhecimento_fontes\AgilityKB\bin\tr-TR\AjaxControlToolkit.resources.dll
+C:\Projetos\Desenv\agility_bancoconhecimento\agility_bancoconhecimento_fontes\AgilityKB\bin\zh-CHS\AjaxControlToolkit.resources.dll
+C:\Projetos\Desenv\agility_bancoconhecimento\agility_bancoconhecimento_fontes\AgilityKB\bin\zh-CHT\AjaxControlToolkit.resources.dll
+C:\Projetos\Desenv\agility_bancoconhecimento\agility_bancoconhecimento_fontes\AgilityKB\obj\Debug\AgilityKB.csprojResolveAssemblyReference.cache
+C:\Projetos\Desenv\agility_bancoconhecimento\agility_bancoconhecimento_fontes\AgilityKB\obj\Debug\AgilityKB.dll
+C:\Projetos\Desenv\agility_bancoconhecimento\agility_bancoconhecimento_fontes\AgilityKB\obj\Debug\AgilityKB.pdb
+C:\Projetos\agility_bancoconhecimento\agility_bancoconhecimento_fontes\AgilityKB\bin\AgilityKB.dll
+C:\Projetos\agility_bancoconhecimento\agility_bancoconhecimento_fontes\AgilityKB\bin\AgilityKB.pdb
+C:\Projetos\agility_bancoconhecimento\agility_bancoconhecimento_fontes\AgilityKB\bin\AgilityKB.Business.dll
+C:\Projetos\agility_bancoconhecimento\agility_bancoconhecimento_fontes\AgilityKB\bin\AgilityKB.Entity.dll
+C:\Projetos\agility_bancoconhecimento\agility_bancoconhecimento_fontes\AgilityKB\bin\AgilityKBDAO.dll
+C:\Projetos\agility_bancoconhecimento\agility_bancoconhecimento_fontes\AgilityKB\bin\AjaxControlToolkit.dll
+C:\Projetos\agility_bancoconhecimento\agility_bancoconhecimento_fontes\AgilityKB\bin\HtmlAgilityPack.dll
+C:\Projetos\agility_bancoconhecimento\agility_bancoconhecimento_fontes\AgilityKB\bin\SanitizerProviders.dll
+C:\Projetos\agility_bancoconhecimento\agility_bancoconhecimento_fontes\AgilityKB\bin\AgilityKB.Business.pdb
+C:\Projetos\agility_bancoconhecimento\agility_bancoconhecimento_fontes\AgilityKB\bin\AgilityKB.Entity.pdb
+C:\Projetos\agility_bancoconhecimento\agility_bancoconhecimento_fontes\AgilityKB\bin\AgilityKBDAO.pdb
+C:\Projetos\agility_bancoconhecimento\agility_bancoconhecimento_fontes\AgilityKB\bin\AjaxControlToolkit.pdb
+C:\Projetos\agility_bancoconhecimento\agility_bancoconhecimento_fontes\AgilityKB\bin\ar\AjaxControlToolkit.resources.dll
+C:\Projetos\agility_bancoconhecimento\agility_bancoconhecimento_fontes\AgilityKB\bin\cs\AjaxControlToolkit.resources.dll
+C:\Projetos\agility_bancoconhecimento\agility_bancoconhecimento_fontes\AgilityKB\bin\de\AjaxControlToolkit.resources.dll
+C:\Projetos\agility_bancoconhecimento\agility_bancoconhecimento_fontes\AgilityKB\bin\es\AjaxControlToolkit.resources.dll
+C:\Projetos\agility_bancoconhecimento\agility_bancoconhecimento_fontes\AgilityKB\bin\fr\AjaxControlToolkit.resources.dll
+C:\Projetos\agility_bancoconhecimento\agility_bancoconhecimento_fontes\AgilityKB\bin\he\AjaxControlToolkit.resources.dll
+C:\Projetos\agility_bancoconhecimento\agility_bancoconhecimento_fontes\AgilityKB\bin\hi\AjaxControlToolkit.resources.dll
+C:\Projetos\agility_bancoconhecimento\agility_bancoconhecimento_fontes\AgilityKB\bin\it\AjaxControlToolkit.resources.dll
+C:\Projetos\agility_bancoconhecimento\agility_bancoconhecimento_fontes\AgilityKB\bin\ja\AjaxControlToolkit.resources.dll
+C:\Projetos\agility_bancoconhecimento\agility_bancoconhecimento_fontes\AgilityKB\bin\ko\AjaxControlToolkit.resources.dll
+C:\Projetos\agility_bancoconhecimento\agility_bancoconhecimento_fontes\AgilityKB\bin\nl\AjaxControlToolkit.resources.dll
+C:\Projetos\agility_bancoconhecimento\agility_bancoconhecimento_fontes\AgilityKB\bin\pt\AjaxControlToolkit.resources.dll
+C:\Projetos\agility_bancoconhecimento\agility_bancoconhecimento_fontes\AgilityKB\bin\ru\AjaxControlToolkit.resources.dll
+C:\Projetos\agility_bancoconhecimento\agility_bancoconhecimento_fontes\AgilityKB\bin\tr-TR\AjaxControlToolkit.resources.dll
+C:\Projetos\agility_bancoconhecimento\agility_bancoconhecimento_fontes\AgilityKB\bin\zh-CHS\AjaxControlToolkit.resources.dll
+C:\Projetos\agility_bancoconhecimento\agility_bancoconhecimento_fontes\AgilityKB\bin\zh-CHT\AjaxControlToolkit.resources.dll
+C:\Projetos\agility_bancoconhecimento\agility_bancoconhecimento_fontes\AgilityKB\obj\Debug\AgilityKB.csprojResolveAssemblyReference.cache
+C:\Projetos\agility_bancoconhecimento\agility_bancoconhecimento_fontes\AgilityKB\obj\Debug\AgilityKB.dll
+C:\Projetos\agility_bancoconhecimento\agility_bancoconhecimento_fontes\AgilityKB\obj\Debug\AgilityKB.pdb

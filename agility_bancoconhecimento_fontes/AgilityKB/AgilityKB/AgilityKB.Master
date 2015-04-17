@@ -1,0 +1,75 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="AgilityKB.Master.cs"
+    Inherits="AgilityKB.SiteMaster" %>
+
+<%@ Register Assembly="AjaxControlToolkit" Namespace="AjaxControlToolkit" TagPrefix="cc1" %>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+<head runat="server" profile="http://www.w3.org/2005/10/profile">
+    <title></title>
+    <script src="Scripts/JQuery/jquery-1.4.1.min.js" type="text/javascript"></script>
+    <link href="Styles/Css/Master.css" rel="stylesheet" type="text/css" />
+    <link rel="icon" type="image/png" href="Styles/Images/agility_favicon.jpg" />
+    <link rel="shortcut icon" href="Styles/Images/agility_favicon.ico" />
+    <asp:ContentPlaceHolder ID="HeadContent" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+    <form runat="server">
+    <div class="header">
+        <div class="logo">
+            <a href="Home.aspx">
+                <img alt="" class="imgLogo" src="Styles/Images/ImagensPersonalizadas/LogoAgility_Reduzido.png" />
+            </a>
+        </div>
+        <div id="DvUsuario" class="dvUsuario" runat="server">
+            <asp:LinkButton ID="LnkLogout" CssClass="lnkLogout" runat="server" Visible="false"
+                Text="Sair" OnClick="LnkLogout_Click"></asp:LinkButton>
+            <asp:Label ID="LblUserLogado" CssClass="lblUserLogado" Visible="false" runat="server"></asp:Label>
+            <asp:Image ID="ImgUsuarioLogado" CssClass="imgUsuarioLogado" Visible="false" runat="server" />
+        </div>
+        <div class="title">
+            <h2 class="cabecalhoMaster">
+                Agility KB
+            </h2>
+        </div>
+        <div class="clear hideSkiplink">
+            <asp:Menu ID="NavigationMenu" runat="server" CssClass="menu" EnableViewState="false"
+                IncludeStyleBlock="false" Orientation="Horizontal">
+                <Items>
+                    <asp:MenuItem NavigateUrl="~/Home.aspx" Text="Home" />
+                    <asp:MenuItem NavigateUrl="~/Sobre.aspx" Text="Sobre" />
+                    <asp:MenuItem NavigateUrl="~/Biblioteca.aspx" Text="Biblioteca" />
+                    <asp:MenuItem NavigateUrl="~/Contatos.aspx" Text="Contatos" />
+                    <asp:MenuItem NavigateUrl="~/CriacaoPosts.aspx" Text="Criar Post" />
+                </Items>
+            </asp:Menu>
+        </div>
+    </div>
+    <div class="page">
+        <div class="main">
+            <asp:ContentPlaceHolder ID="MainContent" runat="server" />
+        </div>
+        <div class="clear">
+        </div>
+    </div>
+    <div class="footer">
+        <div id="Corpright" class="corpright" runat="server">
+            © 2012 Agility Solutions. Todos os direitos reservados.
+        </div>
+        <div id="MenuRodape" class="menusRodape" runat="server">
+            <asp:LinkButton ID="BtnTermosUso" CssClass="LnksBtnRodape" runat="server" Text="Termos de Uso"
+                OnClick="BtnTermosUso_Click" />
+            |
+            <asp:LinkButton ID="BtnPolitica" CssClass="LnksBtnRodape" runat="server" Text="Política de Privacidade"
+                OnClick="BtnPolitica_Click" />
+            |
+            <asp:LinkButton ID="BtnDocumentacao" CssClass="LnksBtnRodape" runat="server" Text="Documentação"
+                OnClick="BtnDocumentacao_Click" />
+            |
+            <asp:LinkButton ID="BtnAdministrador" CssClass="LnksBtnRodape" runat="server" Text="Administrador"
+                OnClick="BtnAdministrador_Click" />
+        </div>
+    </div>
+    </form>
+</body>
+</html>
