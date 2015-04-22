@@ -82,8 +82,7 @@
     <Content Include="Ops.aspx" />
     <Content Include="PoliticaPrivacidade.aspx" />
     <Content Include="Scripts\Customizado\autoNumeric.js" />
-    <Content Include="Scripts\Customizado\jquery.slides.js" />
-    <Content Include="Scripts\Customizado\jquery.slides.min.js" />
+    <Content Include="Scripts\Customizado\jquery.bxslider.js" />
     <Content Include="Scripts\Customizado\Mascaras.js" />
     <Content Include="Servicos\ServicosBC.asmx" />
     <Content Include="Sobre.aspx" />

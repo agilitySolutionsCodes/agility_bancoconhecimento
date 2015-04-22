@@ -26,6 +26,8 @@ namespace AgilityKB
         Categoria categoria = new Categoria();
         #endregion
 
+        #region Load
+
         protected void Page_Load(object sender, EventArgs e)
         {
             if (!Page.IsPostBack)
@@ -58,6 +60,10 @@ namespace AgilityKB
                 MontaCategorias();
             }
         }
+        
+        #endregion 
+
+        #region Métodos
 
         public String DescriptografarSenha(string senha)
         {
@@ -228,5 +234,7 @@ namespace AgilityKB
                 categoria.Imagem = dr["ImgCategoria"].ToString();
             }
         }
+
+        #endregion
     }
 }

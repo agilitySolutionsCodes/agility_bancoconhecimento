@@ -6,7 +6,7 @@ by editing this MSBuild file. In order to learn more about this please visit htt
 <Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <PropertyGroup>
     <TimeStampOfAssociatedLegacyPublishXmlFile />
-    <_PublishTargetUrl>C:\Codes\agility_bancoconhecimento\agility_bancoconhecimento_publicação</_PublishTargetUrl>
+    <_PublishTargetUrl>C:\Codes\agility_bancoconhecimento\agility_bancoconhecimento_publicacao</_PublishTargetUrl>
   </PropertyGroup>
   <ItemGroup>
     <File Include="Account/ChangePassword.aspx">
@@ -43,7 +43,7 @@ by editing this MSBuild file. In order to learn more about this please visit htt
       <publishTime>04/21/2015 14:41:52</publishTime>
     </File>
     <File Include="BackOffice/Css/CadastroCategorias.css">
-      <publishTime>04/21/2015 14:50:50</publishTime>
+      <publishTime>04/22/2015 11:42:59</publishTime>
     </File>
     <File Include="BackOffice/Css/CadastroUsuarios.css">
       <publishTime>04/21/2015 14:16:28</publishTime>
@@ -67,7 +67,7 @@ by editing this MSBuild file. In order to learn more about this please visit htt
       <publishTime>04/22/2015 11:12:16</publishTime>
     </File>
     <File Include="bin/AgilityKB.dll">
-      <publishTime>04/22/2015 11:12:17</publishTime>
+      <publishTime>04/22/2015 15:37:16</publishTime>
     </File>
     <File Include="bin/AgilityKB.Entity.dll">
       <publishTime>04/22/2015 11:12:15</publishTime>
@@ -151,7 +151,7 @@ by editing this MSBuild file. In order to learn more about this please visit htt
       <publishTime>01/31/2013 12:41:00</publishTime>
     </File>
     <File Include="Home.aspx">
-      <publishTime>04/19/2015 11:55:04</publishTime>
+      <publishTime>04/22/2015 15:20:53</publishTime>
     </File>
     <File Include="Ops.aspx">
       <publishTime>03/19/2013 13:45:17</publishTime>
@@ -168,8 +168,11 @@ by editing this MSBuild file. In order to learn more about this please visit htt
     <File Include="Scripts/Customizado/autoNumeric.js">
       <publishTime>07/22/2013 10:29:11</publishTime>
     </File>
+    <File Include="Scripts/Customizado/jquery.bxslider.js">
+      <publishTime>04/22/2015 15:06:13</publishTime>
+    </File>
     <File Include="Scripts/Customizado/Mascaras.js">
-      <publishTime>03/06/2013 13:06:42</publishTime>
+      <publishTime>04/22/2015 11:50:47</publishTime>
     </File>
     <File Include="Scripts/JQuery/jquery-1.4.1-vsdoc.js">
       <publishTime>03/05/2013 10:03:19</publishTime>
@@ -223,7 +226,7 @@ by editing this MSBuild file. In order to learn more about this please visit htt
       <publishTime>04/19/2015 12:00:02</publishTime>
     </File>
     <File Include="Styles/Css/Home.css">
-      <publishTime>04/21/2015 14:01:45</publishTime>
+      <publishTime>04/22/2015 15:34:40</publishTime>
     </File>
     <File Include="Styles/Css/JQueryCarrousel.css">
       <publishTime>01/31/2013 12:41:00</publishTime>
@@ -238,7 +241,7 @@ by editing this MSBuild file. In order to learn more about this please visit htt
       <publishTime>01/31/2013 12:41:00</publishTime>
     </File>
     <File Include="Styles/Css/Posts.css">
-      <publishTime>04/21/2015 13:59:27</publishTime>
+      <publishTime>04/22/2015 15:36:03</publishTime>
     </File>
     <File Include="Styles/Css/Sobre.css">
       <publishTime>01/31/2013 12:41:00</publishTime>
