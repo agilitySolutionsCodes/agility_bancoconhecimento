@@ -6,8 +6,7 @@
     <title>Cadastro de Categorias Base de Conheciment</title>
     <link href="Css/CadastroCategorias.css" rel="stylesheet" />
     <link href="../Styles/Css/MenuLateral.css" rel="stylesheet" type="text/css" />
-    <script type="text/javascript">
-    </script>
+
 </asp:Content>
 <asp:Content ID="BodyContent" ContentPlaceHolderID="MainContent" runat="server">
     <div id="Conteudo" class="conteudo" runat="server">
@@ -20,8 +19,10 @@
             <div id="ControleArvore" class="controleArvore" runat="server">
                 <label id="lblContexto" class="lblContexto">
                     Contexto:</label><br />
+                <br />
                 <Uc:PostArvore ID="arvoreControl" runat="server" />
             </div>
+
             <div id="DvBtns" class="dvBtns" runat="server">
                 <asp:Button ID="BtnEnviar" CssClass="btnEnviar" runat="server" Text="Enviar" OnClick="BtnEnviar_Click" />
             </div>

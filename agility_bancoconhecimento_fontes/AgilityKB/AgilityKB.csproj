@@ -82,6 +82,8 @@
     <Content Include="Ops.aspx" />
     <Content Include="PoliticaPrivacidade.aspx" />
     <Content Include="Scripts\Customizado\autoNumeric.js" />
+    <Content Include="Scripts\Customizado\jquery.slides.js" />
+    <Content Include="Scripts\Customizado\jquery.slides.min.js" />
     <Content Include="Scripts\Customizado\Mascaras.js" />
     <Content Include="Servicos\ServicosBC.asmx" />
     <Content Include="Sobre.aspx" />
@@ -111,13 +113,10 @@
     <Content Include="Scripts\JQuery\jquery-1.4.1.js" />
     <Content Include="Scripts\JQuery\jquery-1.4.1.min.js" />
     <Content Include="Styles\Css\MenuLateral.css" />
-    <Content Include="Styles\Css\JQueryCarrousel.css" />
     <Content Include="Styles\Css\PoliticaPrivacidade.css" />
     <Content Include="Styles\Css\Posts.css" />
     <Content Include="Styles\Css\Sobre.css" />
     <Content Include="Styles\Css\TermosDeUso.css" />
-    <Content Include="Styles\Images\agility_favicon.ico" />
-    <Content Include="Styles\Images\agility_favicon.jpg" />
     <Content Include="Styles\Images\favicon.ico" />
     <Content Include="Styles\Images\ImagensGenericas\Icon_Donwload.png" />
     <Content Include="Styles\Images\ImagensGenericas\Icon_Search.png" />
@@ -134,6 +133,9 @@
     <Content Include="Styles\Images\ImagensPersonalizadas\slide1.gif" />
     <Content Include="Styles\Images\ImagensPersonalizadas\slide2.gif" />
     <Content Include="Styles\Images\ImagensPersonalizadas\slide3.gif" />
+    <Content Include="Styles\Images\ImagensPersonalizadas\teaser-1.jpg" />
+    <Content Include="Styles\Images\ImagensPersonalizadas\teaser-2.jpg" />
+    <Content Include="Styles\Images\ImagensPersonalizadas\teaser-3.jpg" />
     <Content Include="TermosUso.aspx" />
     <Content Include="Uploads\Arquivos\Logo_Agility.jpg" />
     <Content Include="Uploads\Imgs\YuleFoto.JPG" />

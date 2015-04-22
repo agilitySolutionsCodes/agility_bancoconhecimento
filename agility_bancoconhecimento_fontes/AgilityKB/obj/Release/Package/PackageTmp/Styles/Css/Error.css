@@ -1,8 +1,8 @@
 ﻿body {
-    background-image: url("../../Styles/Images/FundoSite.jpg");
+    background-image: url("../../Styles/Images/ImagensPersonalizadas/bg_content.jpg");
     background-repeat: repeat-x;
     font-size: .80em;
-    font-family: "Helvetica Neue", "Lucida Grande", "Segoe UI", Arial, Helvetica, Verdana, sans-serif;
+    font-family: Arial Narrow;
     margin: 0px;
     padding: 0px;
     color: #696969;
@@ -41,7 +41,7 @@
 {
 	width: 90px;
 	height: 30px;
-	font-family: "Helvetica Neue" , "Lucida Grande" , "Segoe UI" , Arial, Helvetica, Verdana, sans-serif;
+	font-family: Arial Narrow;
 	font-size: 14px;
     float: right;
 	margin: 50px 1px 5px 5px;

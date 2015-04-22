@@ -1,21 +1,21 @@
 ﻿/* DEFAULTS
 ----------------------------------------------------------*/
 body {
-    /*background-image: url("../../Styles/Images/FundoSite.jpg");*/
+    background-image: url("../../Styles/Images/ImagensPersonalizadas/bg_content.jpg");
     background-repeat: repeat-x;
-    font-size: .80em;
-    font-family: "Helvetica Neue", "Lucida Grande", "Segoe UI", Arial, Helvetica, Verdana, sans-serif;
+    font-size: .85em;
+    font-family: Arial Narrow;
     margin: 0px;
     padding: 0px;
     color: #696969;
 }
 
 a:link, a:visited {
-    color: #3A4F63;
+    color: #888888;
 }
 
 a:hover {
-    color: #3A4F63;
+    color: #888888;
     text-decoration: none;
 }
 
@@ -83,7 +83,7 @@ first child of the left and right table columns */
     margin: 0px;
     padding: 0px;
     width: 100%;
-    border-bottom: 1px solid #9D9D9D;
+    border-bottom: 1px solid #ff6400;
 }
 
     .header h1 {
@@ -110,7 +110,7 @@ first child of the left and right table columns */
 
 .footer {
     padding: 8px 0px 0px 0px;
-    font-family: "Helvetica Neue", "Lucida Grande", "Segoe UI", Arial, Helvetica, Verdana, sans-serif;
+    font-family: Arial Narrow;
     margin: 3px auto;
     text-align: center;
     line-height: normal;
@@ -120,12 +120,10 @@ first child of the left and right table columns */
     border-top: 1px solid #9D9D9D;
 }
 
-
 /* TAB MENU   
 ----------------------------------------------------------*/
 
 div.hideSkiplink {
-    /*background-color: #3a4f63;*/
     width: 100%;
 }
 
@@ -144,21 +142,22 @@ div.menu {
     }
 
         div.menu ul li a, div.menu ul li a:visited {
-            background-color: #465c71;
-            border: 1px #566B80 solid;
-            color: #dde4ec;
+            background-color: #F06E1E;
+            border: 1px #888888 solid;
+            color: #ffffff;
             line-height: 3.50em;
             padding: 14px 30px 1.20em;
             text-decoration: none;
             white-space: nowrap;
-            font-size: 1.05em;
+            font-size: 1.30em;
         }
 
             div.menu ul li a:hover {
-                background-color: #bfcbd6;
-                color: #465c71;
+                /*background-color: #bfcbd6;*/
+                background-color: #888888;
+                color: #ffffff;
                 text-decoration: none;
-                font-size: 14px;
+                font-size: 1.30em;
             }
 
             div.menu ul li a:active {
@@ -226,8 +225,8 @@ div.accountInfo {
     text-align: left;
     margin-left: 200px;
     margin-left: 300px \0/IE9;
-    font-family: "Helvetica Neue", "Lucida Grande", "Segoe UI", Arial, Helvetica, Verdana, sans-serif;
-    color: #3A4F63;
+    font-family: Arial Narrow;
+    color: #888888;
     width: auto;
     font-size: 28px;
 }
@@ -282,39 +281,38 @@ div.accountInfo {
     height: 50px;
     width: 300px;
     margin: 7px 10px 1px 1px;
-    font-family: "Helvetica Neue", "Lucida Grande", "Segoe UI", Arial, Helvetica, Verdana, sans-serif;
+    font-family: Arial Narrow;
     font-size: 14px;
 }
 
-
 .lblUserLogado {
-    font-family: "Helvetica Neue", "Lucida Grande", "Segoe UI", Arial, Helvetica, Verdana, sans-serif;
-    font-size: 14px;
+    font-family: Arial Narrow;
+    font-size: 15px;
     text-align: left;
     margin: 1px 10px 1px 1px;
     float: right;
-    color: #3A4F63;
+    color: #888888;
     margin-top: 2px;
 }
 
 .lblUserLogadoBig {
-    font-family: "Helvetica Neue", "Lucida Grande", "Segoe UI", Arial, Helvetica, Verdana, sans-serif;
-    font-size: 13px;
-    font-weight:500;
+    font-family: Arial Narrow;
+    font-size: 15px;
+    font-weight: 500;
     text-align: left;
     margin: 1px 1px 1px 2px;
     float: left;
-    color: #3A4F63;
+    color: #888888;
     margin-top: 2px;
 }
 
 .lnkLogout {
-    font-family: "Helvetica Neue", "Lucida Grande", "Segoe UI", Arial, Helvetica, Verdana, sans-serif;
+    font-family: Arial Narrow;
     font-size: 14px;
     text-align: left;
     margin: 2px 1px 0px 1px;
     float: right;
-    color: #3A4F63;
+    color: #888888;
     font-weight: 600;
 }
 
@@ -331,7 +329,7 @@ div.accountInfo {
     width: 575px\0/IE9;
     height: auto;
     float: left;
-    color: #3A4F63;
+    color: #888888;
     text-align: left;
     margin: 1px 0px 1px 30px;
 }
@@ -341,7 +339,7 @@ div.accountInfo {
     width: 45px\0/IE9;
     height: auto;
     float: left;
-    color: #3A4F63;
+    color: #888888;
     text-align: left;
     margin: 1px 0px 1px 30px;
 }
@@ -352,7 +350,7 @@ div.accountInfo {
     float: right;
     margin-right: 20px;
     text-align: right;
-    color: #666;
+    color: #888888;
 }
 
 .LnksBtnRodape {
@@ -363,7 +361,7 @@ div.accountInfo {
 
 /* HOVER STYLES */
 div#pop-up {
-    background-image: url("../../Styles/Images/FundoSite.jpg");
+    background-image: url("../../Styles/Images/ImagensPersonalizadas/bg_content.jpg");
     display: none;
     position: absolute;
     width: 320px;
@@ -382,7 +380,6 @@ div#pop-up {
 }
 
 .dvInfoUser {
-
     width: 155px;
     height: 130px;
     float: left;

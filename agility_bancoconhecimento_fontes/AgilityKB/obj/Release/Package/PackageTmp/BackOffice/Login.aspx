@@ -11,8 +11,8 @@
             <asp:TextBox ID="TxtLogin" runat="server" CssClass="txtLogin" />
         </div>
         <div id="ConteudoSenha" class="conteudoLogin">
-            <asp:Label ID="LblSenha" runat="server" CssClass="lblLogin" Text="Senha:" />
-            <asp:TextBox ID="TxtSenha" runat="server" TextMode="Password" CssClass="txtLogin" />
+            <asp:Label ID="LblSenha" runat="server" CssClass="lblSenha" Text="Senha:" />
+            <asp:TextBox ID="TxtSenha" runat="server" TextMode="Password" CssClass="txtSenha" />
         </div>
         <div id="ConteudoBtns" class="conteudoLogin">
             <asp:Button ID="BtnEnviar" runat="server" CssClass="btnEnviar" Text="Enviar" OnClick="BtnEnviar_Click" />

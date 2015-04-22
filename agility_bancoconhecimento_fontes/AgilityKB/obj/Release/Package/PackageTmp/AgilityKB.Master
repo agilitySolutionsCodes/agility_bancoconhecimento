@@ -1,7 +1,4 @@
-﻿ <%@ Master Language="C#" AutoEventWireup="true" CodeBehind="AgilityKB.Master.cs"
-    Inherits="AgilityKB.SiteMaster" %>
-
-<%@ Import Namespace="AgilityKB.Business" %>
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="AgilityKB.Master.cs" Inherits="AgilityKB.SiteMaster" %>
 
 <%@ Register Assembly="AjaxControlToolkit" Namespace="AjaxControlToolkit" TagPrefix="cc1" %>
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
@@ -12,17 +9,16 @@
     <script src="Scripts/JQuery/jquery-1.4.1.min.js" type="text/javascript"></script>
     <script src="Scripts/Customizado/AgilityKB.js" type="text/javascript"></script>
     <link href="Styles/Css/Master.css" rel="stylesheet" type="text/css" />
-    <link rel="icon" type="image/png" href="Styles/Images/agility_favicon.jpg" />
-    <link rel="shortcut icon" href="Styles/Images/agility_favicon.ico" />
+    <link rel="shortcut icon" href="Styles/Images/favicon.ico" />
     <asp:ContentPlaceHolder ID="HeadContent" runat="server">
     </asp:ContentPlaceHolder>
 </head>
 <body>
-    <form runat="server">        
+    <form runat="server">
         <div class="header">
             <div class="logo">
                 <a href="Home.aspx">
-                    <%--<img alt="" class="imgLogo" src="Styles/Images/ImagensPersonalizadas/LogoAgility_Reduzido.png" />--%>
+                    <img alt="" class="imgLogo" src="Styles/Images/ImagensPersonalizadas/AgilityLogo.png" />
                 </a>
             </div>
             <div id="DvUsuario" class="dvUsuario" runat="server">
@@ -52,8 +48,7 @@
                 </a>
             </div>
             <div class="title">
-                <h2 class="cabecalhoMaster"><%--Base de Conhecimento Agility--%>
-                </h2>
+                <h2 class="cabecalhoMaster"></h2>
             </div>
             <div class="clear hideSkiplink">
                 <asp:Menu ID="NavigationMenu" runat="server" CssClass="menu" EnableViewState="false"

@@ -1,23 +1,23 @@
 ﻿
 .menuRight {
-    width: 940px;
-    height: auto;
+    width: 900px;
+    min-height: 350px;
     float: left;
     margin-left: 10px;
     text-align: justify;
 }
 
 .conteudoPosts {
-    width: 930px;
-    margin: 5px 5px 5px 130px;
+    width: 990px;
+    margin: 5px 5px 5px 50px;
 }
 
 .dvTituloPost {
     width: 650px;
     height: 35px;
-    margin: 5px 0px 0px 165px;
+    margin: 5px 0px 0px 1px;
     font-size: 16px;
-    font-family: "Helvetica Neue", "Lucida Grande", "Segoe UI", Arial, Helvetica, Verdana, sans-serif;
+    font-family: Arial Narrow;
     color: #696969;
     text-align: center;
 }
@@ -25,75 +25,76 @@
 .dvBtns {
     width: 650px;
     height: 55px;
-    margin: 5px 0px 0px 165px;
+    margin: 5px 0px 0px 295px;
     font-size: 16px;
-    font-family: "Helvetica Neue", "Lucida Grande", "Segoe UI", Arial, Helvetica, Verdana, sans-serif;
+    font-family: Arial Narrow;
     color: #696969;
     text-align: center;
 }
 
 .dvConteudoPost {
     width: 890px;
-    height: 350px;
+    min-height: 250px;
     margin: 10px 0 0 35px;
     font-size: 15px;
-    font-family: "Helvetica Neue", "Lucida Grande", "Segoe UI", Arial, Helvetica, Verdana, sans-serif;
+    font-family: Arial Narrow;
     color: #696969;
     text-align: center;
 }
 
 .controleAjax {
     width: 640px;
-    height: 325px;
+    height: 225px;
     margin: 5px 5px 5px 7px;
 }
 
 .lblTitulo {
     width: 120px;
     height: 25px;
-    font-family: "Helvetica Neue", "Lucida Grande", "Segoe UI", Arial, Helvetica, Verdana, sans-serif;
+    font-family: Arial Narrow;
     font-size: 14px;
-    margin: 10px 0 5px 45px;
+    margin: 10px 0 5px 25px;
     float: left;
 }
 
 .txtTitulo {
     width: 350px;
     height: 20px;
-    font-family: "Helvetica Neue", "Lucida Grande", "Segoe UI", Arial, Helvetica, Verdana, sans-serif;
+    font-family: Arial Narrow;
     font-size: 14px;
     margin: 5px 45px 5px 1px;
     float: right;
 }
 
 .txtConteudo {
-    width: 940px;
-    height: 320px;
+    width: 700px;
+    height: 220px;
     border: 1px solid #000000;
     font-size: 14px;
-    font-family: "Helvetica Neue", "Lucida Grande", "Segoe UI", Arial, Helvetica, Verdana, sans-serif;
+    font-family: Arial Narrow;
     text-align: left;
     float: left;
+    margin: 5px 0px 0px 1px;
 }
 
 .ajax__html_editor_extender_texteditor {
-    height: 320px;
+    height: 220px;
     background-color: #FFFFFF;
 }
 
 .postUpload {
     width: 330px;
     height: 25px;
-    font-family: "Helvetica Neue", "Lucida Grande", "Segoe UI", Arial, Helvetica, Verdana, sans-serif;
+    font-family: Arial Narrow;
     font-size: 14px;
-    margin: 5px 0 5px 45px;
+    margin: 5px 0 5px 60px;
     float: left;
 }
 
 .lblContexto {
     width: 140px;
     height: 25px;
-    font-family: "Helvetica Neue", "Lucida Grande", "Segoe UI", Arial, Helvetica, Verdana, sans-serif;
+    font-family: Arial Narrow;
     font-size: 14px;
     float: left;
     text-align: center;
@@ -102,24 +103,26 @@
 .lblUpload {
     width: 175px;
     height: 25px;
-    font-family: "Helvetica Neue", "Lucida Grande", "Segoe UI", Arial, Helvetica, Verdana, sans-serif;
+    font-family: Arial Narrow;
     font-size: 14px;
     float: left;
-    margin: 5px 0 5px 45px;
+    margin: 5px 0 5px 15px;
 }
 
 .controleArvore {
-    width: 670px;
-    margin: 0px 0px 1px 225px;
-    height: auto;
-    font-family: "Helvetica Neue", "Lucida Grande", "Segoe UI", Arial, Helvetica, Verdana, sans-serif;
+    width: 385px;
+    margin: 20px 0px 1px 5px;
+    min-height: 265px;
+    float: right;
+    font-family: Arial Narrow;
     font-size: 14px;
+    border-left: 1px solid #9D9D9D;
 }
 
 .drpContexto {
     width: 200px;
     height: 20px;
-    font-family: "Helvetica Neue", "Lucida Grande", "Segoe UI", Arial, Helvetica, Verdana, sans-serif;
+    font-family: Arial Narrow;
     font-size: 14px;
     float: left;
     margin: 5px 0 5px 75px;
@@ -128,7 +131,7 @@
 .btnLimpar {
     width: 100px;
     height: 30px;
-    font-family: "Helvetica Neue", "Lucida Grande", "Segoe UI", Arial, Helvetica, Verdana, sans-serif;
+    font-family: Arial Narrow;
     font-size: 14px;
     background-color: transparent;
     float: left;
@@ -139,7 +142,7 @@
 .btnEnviar {
     width: 100px;
     height: 30px;
-    font-family: "Helvetica Neue", "Lucida Grande", "Segoe UI", Arial, Helvetica, Verdana, sans-serif;
+    font-family: Arial Narrow;
     font-size: 14px;
     background-color: transparent;
     float: right;
@@ -154,7 +157,7 @@
 }
 
 .lblErros {
-    font-family: "Helvetica Neue", "Lucida Grande", "Segoe UI", Arial, Helvetica, Verdana, sans-serif;
+    font-family: Arial Narrow;
     color: Red;
     text-align: center;
     font-size: 14px;
@@ -163,7 +166,7 @@
 }
 
 .lblSucesso {
-    font-family: "Helvetica Neue", "Lucida Grande", "Segoe UI", Arial, Helvetica, Verdana, sans-serif;
+    font-family: Arial Narrow;
     color: #3A4F63;
     text-align: center;
     font-size: 15px;

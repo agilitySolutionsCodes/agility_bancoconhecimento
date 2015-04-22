@@ -8,7 +8,6 @@
     <script src="Scripts/JQuery/jquery-1.7.2.js" type="text/javascript"></script>
     <script src="Scripts/Customizado/AgilityKB.js" type="text/javascript"></script>
     <link href="Styles/Css/Home.css" rel="stylesheet" type="text/css" />
-    <link href="Styles/Css/JQueryCarrousel.css" rel="stylesheet" type="text/css" />
 </asp:Content>
 <asp:Content ID="BodyContent" runat="server" ContentPlaceHolderID="MainContent">
     <asp:Panel ID="pnlModal" runat="server" Visible="false">
@@ -94,11 +93,10 @@
             <%-- <div class="rightBox">
             </div>
             <div class="leftBox">
-            </div>
-            <div class="centerBox">
-                
             </div>--%>
-            <%--<div id="carousel">
+            <%--<div class="centerBox">
+            </div>--%>
+            <div id="carousel">
                 <div id="buttons">
                     <a id="prev"></a><a id="next"></a>
                     <div class="clear">
@@ -108,21 +106,21 @@
                 </div>
                 <div id="slides">
                     <ul>
-                        <li><a href="Biblioteca.aspx">
-                            <img src="Styles/Images/ImagensPersonalizadas/slide3.gif" width="272" height="240"
+                        <%-- <li><a href="Biblioteca.aspx">
+                            <img src="Styles/Images/ImagensPersonalizadas/slide1.gif" width="272" height="240"
                                 alt="Slide 1" title="Exemplo Módulo 1" /></a></li>
                         <li><a href="Biblioteca.aspx">
-                            <img src="Styles/Images/ImagensPersonalizadas/slide3.gif" width="272" height="240"
+                            <img src="Styles/Images/ImagensPersonalizadas//slide2.gif" width="272" height="240"
                                 alt="Slide 2" title="Exemplo Módulo 2" /></a></li>
                         <li><a href="Biblioteca.aspx">
-                            <img src="Styles/Images/ImagensPersonalizadas/slide2.gif" width="272" height="240"
+                            <img src="Styles/Images/ImagensPersonalizadas/slide3.gif" width="272" height="240"
                                 alt="Slide 3" title="Exemplo Módulo 3" /></a></li>
-                        <li><a href="Biblioteca.aspx">
+                            <li><a href="Biblioteca.aspx">
                             <img src="Styles/Images/ImagensPersonalizadas/slide2.gif" width="272" height="240"
-                                alt="Slide 4" title="Exemplo Módulo 2" /></a></li>
+                                alt="Slide 4" title="Exemplo Módulo 2" /></a></li>--%>
                     </ul>
                 </div>
-            </div>--%>
+            </div>
         </div>
     </div>
 </asp:Content>

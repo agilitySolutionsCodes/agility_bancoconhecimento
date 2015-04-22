@@ -5,7 +5,7 @@
 
 .dvCadastro {
     width: 750px;
-    height: 350px;
+    height: auto;
     margin: 65px 275px 15px 265px;
 }
 
@@ -14,7 +14,7 @@
     height: 35px;
     margin: 5px 0px 0px 65px;
     font-size: 16px;
-    font-family: "Helvetica Neue", "Lucida Grande", "Segoe UI", Arial, Helvetica, Verdana, sans-serif;
+    font-family: Arial Narrow;
     color: #696969;
     text-align: center;
 }
@@ -27,15 +27,15 @@
 
 .txtTitulo {
     width: 300px;
-    height: 20px;
-    font-family: "Helvetica Neue", "Lucida Grande", "Segoe UI", Arial, Helvetica, Verdana, sans-serif;
+    height: 25px;
+    font-family: Arial Narrow;
     font-size: 14px;
     margin: 5px 95px 5px 1px;
     float: right;
 }
 
 .lblErros {
-    font-family: "Helvetica Neue", "Lucida Grande", "Segoe UI", Arial, Helvetica, Verdana, sans-serif;
+    font-family: Arial Narrow;
     color: Red;
     text-align: center;
     font-size: 14px;
@@ -44,7 +44,7 @@
 }
 
 .lblSucesso {
-    font-family: "Helvetica Neue", "Lucida Grande", "Segoe UI", Arial, Helvetica, Verdana, sans-serif;
+    font-family: Arial Narrow;
     color: #3A4F63;
     text-align: center;
     font-size: 15px;
@@ -56,26 +56,37 @@
 .lblContexto {
     width: 140px;
     height: 25px;
-    font-family: "Helvetica Neue", "Lucida Grande", "Segoe UI", Arial, Helvetica, Verdana, sans-serif;
+    font-family: Arial Narrow;
     font-size: 15px;
+    margin: 30px 2px 2px 10px;
     float: left;
     text-align: left;
 }
 
+.contextoArvore {
+
+    width: 140px;
+    height: 25px;
+    font-family: Arial Narrow;
+    font-size: 15px;
+    margin: 30px 2px 2px 10px;
+    float: left;
+    text-align: left;
+}
 .controleArvore {
     width: 670px;
-    margin: 0px 0px 1px 120px;
+    margin: 10px 0px 1px 120px;
     height: auto;
-    font-family: "Helvetica Neue", "Lucida Grande", "Segoe UI", Arial, Helvetica, Verdana, sans-serif;
+    font-family: Arial Narrow;
     font-size: 14px;
 }
 
 .dvBtns {
     width: 650px;
     height: 55px;
-    margin: 5px 0px 0px 165px;
+    margin: 30px 0px 0px 170px;
     font-size: 16px;
-    font-family: "Helvetica Neue", "Lucida Grande", "Segoe UI", Arial, Helvetica, Verdana, sans-serif;
+    font-family: Arial Narrow;
     color: #696969;
     text-align: center;
 }
@@ -84,7 +95,7 @@
 .btnLimpar {
     width: 100px;
     height: 30px;
-    font-family: "Helvetica Neue", "Lucida Grande", "Segoe UI", Arial, Helvetica, Verdana, sans-serif;
+    font-family: Arial Narrow;
     font-size: 14px;
     background-color: transparent;
     float: left;
@@ -95,7 +106,7 @@
 .btnEnviar {
     width: 100px;
     height: 30px;
-    font-family: "Helvetica Neue", "Lucida Grande", "Segoe UI", Arial, Helvetica, Verdana, sans-serif;
+    font-family: Arial Narrow;
     font-size: 14px;
     background-color: transparent;
     float: right;

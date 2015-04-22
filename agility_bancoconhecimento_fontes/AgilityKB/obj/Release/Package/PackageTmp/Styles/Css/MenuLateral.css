@@ -1,48 +1,43 @@
 ﻿/* ----------- Menu Lateral Biblioteca ----------- */
-.bodyLeft
-{
-	width: 550px;
-	height: auto;
+.bodyLeft {
+    width: 550px;
+    height: auto;
 }
 
-.campoBusca
-{
-	width: 80%;
-	margin-left: 5px;
-	margin-right: 5px;
-	margin-top: 5px;
+.campoBusca {
+    width: 80%;
+    margin-left: 5px;
+    margin-right: 5px;
+    margin-top: 5px;
 }
 
-.txtBusca
-{
-	width: 400px;
-	height: 25px;
-	font-family: "Helvetica Neue" , "Lucida Grande" , "Segoe UI" , Arial, Helvetica, Verdana, sans-serif;
-	line-height: normal;
-	border: 1px solid;
-	color: #3A4F63;
-	font-style: italic;
-	float: left;
-	margin-left: 2px;
+.txtBusca {
+    width: 400px;
+    height: 30px;
+    font-family: Arial Narrow;
+    font-size: 16px;
+    line-height: normal;
+    border: 1px solid;
+    color: #888888;
+    font-style: italic;
+    float: left;
+    margin-left: 2px;
 }
 
-.imgBusca
-{
-	width: 15px;
-	height: 15px;
-	border: 0;
-	margin: 7px 0 0 5px;
+.imgBusca {
+    width: 15px;
+    height: 15px;
+    border: 0;
+    margin: 7px 0 0 5px;
 }
 
-.arvoreBiblioteca
-{
-	font-family: "Helvetica Neue" , "Lucida Grande" , "Segoe UI" , Arial, Helvetica, Verdana, sans-serif;
-	font-size: 14px;
-	margin: 5px 0 0 5px;
+.arvoreBiblioteca {
+    font-family: Arial Narrow;
+    font-size: 16px;
+    margin: 5px 0 0 5px;
 }
 
-a:hover
-{
-	color: #3A4F63;
-	text-decoration: none;
+a:hover {
+    color: #888888;
+    text-decoration: none;
 }

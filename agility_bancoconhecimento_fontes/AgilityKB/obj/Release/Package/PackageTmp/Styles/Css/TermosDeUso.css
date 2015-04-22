@@ -1,6 +1,6 @@
 ﻿body
 {
-	background-image: url("../../Styles/Images/FundoSite.jpg");
+	background-image: url("../../Styles/Images/ImagensPersonalizadas/bg_content.jpg");
 	background-repeat: repeat-x;
     min-height: 750px;
 }
@@ -16,7 +16,7 @@
 {
 	font-family: "Helvetica Neue" , "Lucida Grande" , "Segoe UI" , Arial, Helvetica, Verdana, sans-serif;
 	text-transform: none;
-	color: #3A4F63;
+	color: #888888;
 	width: auto;
 	height: 30px;
 	font-size: 22px;
@@ -28,7 +28,7 @@
 {
 	font-family: "Helvetica Neue" , "Lucida Grande" , "Segoe UI" , Arial, Helvetica, Verdana, sans-serif;
 	text-transform: capitalize;
-	color: #3A4F63;
+	color: #888888;
 	width: 950px;
 	font-size: 13px;
 	margin: 2px 2px 1px 190px;
