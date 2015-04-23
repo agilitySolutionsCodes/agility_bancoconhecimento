@@ -9,6 +9,7 @@
     <script src="Scripts/Customizado/jquery.bxslider.js"></script>
     <script src="Scripts/Customizado/AgilityKB.js" type="text/javascript"></script>
     <link href="Styles/Css/Home.css" rel="stylesheet" type="text/css" />
+    <link href="Styles/Css/BxSlider.css" rel="stylesheet" />
 
     <script type="text/javascript">
         $(document).ready(function () {
@@ -97,39 +98,25 @@
                 <h2 class="tituloExp">Explore Seu Conhecimento
                 </h2>
             </div>
-            <div class="rightBox">
-            </div>
-            <div class="leftBox">
-            </div>
-            <div class="centerBox">
-            </div>
             <div id="carousel">
-                <div id="buttons">
-                    <a id="prev"></a><a id="next"></a>
-                    <div class="clear">
-                    </div>
-                </div>
                 <div class="clear">
                 </div>
                 <div id="slides">
                     <ul class="bxslider">
                         <li>
                             <a href="Biblioteca.aspx">
-                                <img src="Styles/Images/ImagensPersonalizadas/slide1.gif" width="272" height="240" alt="Slide 1" title="Exemplo Módulo 1" />
+                                <img src="Styles/Images/ImagensPersonalizadas/teaser-1.jpg" width="1200" height="350" alt="Slide 1" title="Exemplo Módulo 1" />
                             </a>
                         </li>
                         <li>
                             <a href="Biblioteca.aspx">
-                                <img src="Styles/Images/ImagensPersonalizadas//slide2.gif" width="272" height="240" alt="Slide 2" title="Exemplo Módulo 2" />
+                                <img src="Styles/Images/ImagensPersonalizadas/teaser-2.jpg" width="1200" height="350" alt="Slide 2" title="Exemplo Módulo 2" />
                             </a>
                         </li>
                         <li>
                             <a href="Biblioteca.aspx">
-                                <img src="Styles/Images/ImagensPersonalizadas/slide3.gif" width="272" height="240" alt="Slide 3" title="Exemplo Módulo 3" />
+                                <img src="Styles/Images/ImagensPersonalizadas/teaser-3.jpg" width="1200" height="350" alt="Slide 3" title="Exemplo Módulo 3" />
                             </a>
-                        </li>
-                        <li><a href="Biblioteca.aspx">
-                            <img src="Styles/Images/ImagensPersonalizadas/slide2.gif" width="272" height="240" alt="Slide 4" title="Exemplo Módulo 2" /></a>
                         </li>
                     </ul>
                 </div>

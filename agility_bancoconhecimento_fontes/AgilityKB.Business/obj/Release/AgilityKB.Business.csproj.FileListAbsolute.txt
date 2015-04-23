@@ -16,12 +16,3 @@ C:\Projetos\agility_bancoconhecimento\agility_bancoconhecimento_fontes\AgilityKB
 C:\Projetos\agility_bancoconhecimento\agility_bancoconhecimento_fontes\AgilityKB.Business\obj\Release\AgilityKB.Business.csprojResolveAssemblyReference.cache
 C:\Projetos\agility_bancoconhecimento\agility_bancoconhecimento_fontes\AgilityKB.Business\obj\Release\AgilityKB.Business.dll
 C:\Projetos\agility_bancoconhecimento\agility_bancoconhecimento_fontes\AgilityKB.Business\obj\Release\AgilityKB.Business.pdb
-C:\Codes\agility_bancoconhecimento\agility_bancoconhecimento_fontes\AgilityKB.Business\bin\Release\AgilityKB.Business.dll
-C:\Codes\agility_bancoconhecimento\agility_bancoconhecimento_fontes\AgilityKB.Business\bin\Release\AgilityKB.Business.pdb
-C:\Codes\agility_bancoconhecimento\agility_bancoconhecimento_fontes\AgilityKB.Business\bin\Release\AgilityKB.Entity.dll
-C:\Codes\agility_bancoconhecimento\agility_bancoconhecimento_fontes\AgilityKB.Business\bin\Release\AgilityKBDAO.dll
-C:\Codes\agility_bancoconhecimento\agility_bancoconhecimento_fontes\AgilityKB.Business\bin\Release\AgilityKB.Entity.pdb
-C:\Codes\agility_bancoconhecimento\agility_bancoconhecimento_fontes\AgilityKB.Business\bin\Release\AgilityKBDAO.pdb
-C:\Codes\agility_bancoconhecimento\agility_bancoconhecimento_fontes\AgilityKB.Business\obj\Release\AgilityKB.Business.csprojResolveAssemblyReference.cache
-C:\Codes\agility_bancoconhecimento\agility_bancoconhecimento_fontes\AgilityKB.Business\obj\Release\AgilityKB.Business.dll
-C:\Codes\agility_bancoconhecimento\agility_bancoconhecimento_fontes\AgilityKB.Business\obj\Release\AgilityKB.Business.pdb

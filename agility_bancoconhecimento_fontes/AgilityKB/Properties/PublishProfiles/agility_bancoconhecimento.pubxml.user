@@ -64,16 +64,16 @@ by editing this MSBuild file. In order to learn more about this please visit htt
       <publishTime>04/17/2015 13:52:30</publishTime>
     </File>
     <File Include="bin/AgilityKB.Business.dll">
-      <publishTime>04/22/2015 11:12:16</publishTime>
+      <publishTime>04/23/2015 16:58:21</publishTime>
     </File>
     <File Include="bin/AgilityKB.dll">
-      <publishTime>04/22/2015 15:37:16</publishTime>
+      <publishTime>04/23/2015 16:58:22</publishTime>
     </File>
     <File Include="bin/AgilityKB.Entity.dll">
-      <publishTime>04/22/2015 11:12:15</publishTime>
+      <publishTime>04/23/2015 16:58:20</publishTime>
     </File>
     <File Include="bin/AgilityKBDAO.dll">
-      <publishTime>04/22/2015 11:12:16</publishTime>
+      <publishTime>04/23/2015 16:58:21</publishTime>
     </File>
     <File Include="bin/AjaxControlToolkit.dll">
       <publishTime>01/31/2013 12:41:00</publishTime>
@@ -151,7 +151,7 @@ by editing this MSBuild file. In order to learn more about this please visit htt
       <publishTime>01/31/2013 12:41:00</publishTime>
     </File>
     <File Include="Home.aspx">
-      <publishTime>04/22/2015 15:20:53</publishTime>
+      <publishTime>04/23/2015 16:45:09</publishTime>
     </File>
     <File Include="Ops.aspx">
       <publishTime>03/19/2013 13:45:17</publishTime>
@@ -219,6 +219,9 @@ by editing this MSBuild file. In order to learn more about this please visit htt
     <File Include="Styles/Css/Busca.css">
       <publishTime>04/17/2015 10:30:32</publishTime>
     </File>
+    <File Include="Styles/Css/BxSlider.css">
+      <publishTime>04/23/2015 16:55:59</publishTime>
+    </File>
     <File Include="Styles/Css/Contatos.css">
       <publishTime>01/31/2013 12:41:00</publishTime>
     </File>
@@ -226,7 +229,7 @@ by editing this MSBuild file. In order to learn more about this please visit htt
       <publishTime>04/19/2015 12:00:02</publishTime>
     </File>
     <File Include="Styles/Css/Home.css">
-      <publishTime>04/22/2015 15:34:40</publishTime>
+      <publishTime>04/23/2015 16:43:24</publishTime>
     </File>
     <File Include="Styles/Css/JQueryCarrousel.css">
       <publishTime>01/31/2013 12:41:00</publishTime>
@@ -288,6 +291,12 @@ by editing this MSBuild file. In order to learn more about this please visit htt
     <File Include="Styles/Images/ImagensPersonalizadas/BotaoEnviar.png">
       <publishTime>01/31/2013 12:41:00</publishTime>
     </File>
+    <File Include="Styles/Images/ImagensPersonalizadas/bx_loader.gif">
+      <publishTime>03/31/2015 16:21:26</publishTime>
+    </File>
+    <File Include="Styles/Images/ImagensPersonalizadas/controls.png">
+      <publishTime>03/31/2015 16:21:26</publishTime>
+    </File>
     <File Include="Styles/Images/ImagensPersonalizadas/entrar.png">
       <publishTime>11/22/2013 14:22:16</publishTime>
     </File>
@@ -331,7 +340,7 @@ by editing this MSBuild file. In order to learn more about this please visit htt
       <publishTime>07/15/2013 15:15:42</publishTime>
     </File>
     <File Include="Web.config">
-      <publishTime>04/22/2015 11:12:20</publishTime>
+      <publishTime>04/23/2015 16:58:22</publishTime>
     </File>
   </ItemGroup>
 </Project>

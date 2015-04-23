@@ -102,6 +102,7 @@
     <Content Include="Styles\Css\Biblioteca.css" />
     <Content Include="Styles\Css\Busca.css" />
     <Content Include="BackOffice\Css\CadastroUsuarios.css" />
+    <Content Include="Styles\Css\BxSlider.css" />
     <Content Include="Styles\Css\Contatos.css" />
     <Content Include="Styles\Css\Error.css" />
     <Content Include="Styles\Css\Home.css" />
@@ -125,6 +126,8 @@
     <Content Include="Styles\Images\ImagensPersonalizadas\BackGroundPage.png" />
     <Content Include="Styles\Images\ImagensPersonalizadas\bg_content.jpg" />
     <Content Include="Styles\Images\ImagensPersonalizadas\BotaoEnviar.png" />
+    <Content Include="Styles\Images\ImagensPersonalizadas\bx_loader.gif" />
+    <Content Include="Styles\Images\ImagensPersonalizadas\controls.png" />
     <Content Include="Styles\Images\ImagensPersonalizadas\entrar.png" />
     <Content Include="Styles\Images\ImagensPersonalizadas\search-icon-hi.png" />
     <Content Include="Styles\Images\ImagensPersonalizadas\SetaDireita.png" />
