@@ -25,9 +25,7 @@ namespace AgilityKB
             arvoreControl.OnSelecionarContexto += new SelecionarContexto(ControleArvore_OnSelecionarContexto);
 
             if (!Page.IsPostBack)
-            {
-                DvErros.Visible = false;
-            }
+            { DvErros.Visible = false; }
 
             else
             {
@@ -110,8 +108,6 @@ namespace AgilityKB
             TxtConteudo.Text = string.Empty;
         }
 
-        string ArquivoUpload = string.Empty;
-       
         public void ControleArvore_OnSelecionarContexto(string IdNo)
         {
             Session.Add("ArquivoSelecionado", PostUpload.FileName);

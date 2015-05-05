@@ -81,7 +81,7 @@ namespace AgilityKB.BackOffice
 
         protected void BtnVoltarBase_Click(object sender, EventArgs e)
         {
-            Response.Redirect("/BancoConhecimento/Home.aspx");
+            Response.Redirect("/BancoConhecimento/default.aspx");
         }
 
         protected void BtnTermosUso_Click(object sender, EventArgs e)

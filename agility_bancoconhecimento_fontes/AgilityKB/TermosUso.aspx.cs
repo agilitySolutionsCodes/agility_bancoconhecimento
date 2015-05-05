@@ -37,7 +37,7 @@ namespace AgilityKB
                 {
                     if (Session["CodUsuario"] == null)
                     {
-                        Response.Redirect("~/Home.aspx");
+                        Response.Redirect("~/default.aspx");
                     }
                 }
             }
@@ -74,7 +74,7 @@ namespace AgilityKB
                     usuarioB.AceitaTermos(usuario.IdUsuario, usuario.Ativo, vNovaSenha);
                     ScriptManager.RegisterClientScriptBlock(BtnEnviar, BtnEnviar.GetType(), "msgSucesso", "alert('Bem Vindo a Base de Conhecimento Agility Solutions.');", true);
 
-                    Response.Redirect("~/Home.aspx");                   
+                    Response.Redirect("~/default.aspx");                   
                 }
 
                 else
@@ -82,7 +82,7 @@ namespace AgilityKB
                     if (ChkRecusa.Checked == true)
                     {
                         Session.RemoveAll();
-                        Response.Redirect("~/Home.aspx");
+                        Response.Redirect("~/default.aspx");
                     }
                 }
             }

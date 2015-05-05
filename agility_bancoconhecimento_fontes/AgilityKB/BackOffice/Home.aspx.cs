@@ -43,7 +43,7 @@ namespace AgilityKB.BackOffice
 
         protected void LnkBtnOpcaoB_Click(object sender, EventArgs e)
         {
-            Response.Redirect("~/Home.aspx");
+            Response.Redirect("~/default.aspx");
         }
 
     }

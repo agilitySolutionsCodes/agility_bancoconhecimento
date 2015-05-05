@@ -70,7 +70,7 @@ namespace AgilityKB
         protected void LnkLogout_Click(object sender, EventArgs e)
         {
             Session.RemoveAll();
-            Response.Redirect("~/Home.aspx");
+            Response.Redirect("~/default.aspx");
         }
 
         protected void BtnDocumentacao_Click(object sender, EventArgs e)

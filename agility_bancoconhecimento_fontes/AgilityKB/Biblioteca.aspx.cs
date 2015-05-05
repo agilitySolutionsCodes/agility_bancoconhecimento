@@ -24,7 +24,7 @@ namespace AgilityKB
             {
                 if (Session["CodUsuario"] == null)
                 {
-                    Response.Redirect("~/Home.aspx");
+                    Response.Redirect("~/default.aspx");
                 }
             }
 

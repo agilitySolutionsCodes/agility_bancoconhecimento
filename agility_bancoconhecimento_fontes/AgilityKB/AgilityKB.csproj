@@ -107,7 +107,7 @@
     <Content Include="Styles\Css\Error.css" />
     <Content Include="Styles\Css\Home.css" />
     <Content Include="Styles\Css\Master.css" />
-    <Content Include="Home.aspx" />
+    <Content Include="default.aspx" />
     <Content Include="Global.asax" />
     <Content Include="Scripts\JQuery\jquery-1.4.1-vsdoc.js" />
     <Content Include="Scripts\JQuery\jquery-1.4.1.js" />
@@ -241,12 +241,12 @@
     <Compile Include="Controles\MenuLateral.ascx.designer.cs">
       <DependentUpon>MenuLateral.ascx</DependentUpon>
     </Compile>
-    <Compile Include="Home.aspx.cs">
-      <DependentUpon>Home.aspx</DependentUpon>
+    <Compile Include="default.aspx.cs">
+      <DependentUpon>default.aspx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
     </Compile>
-    <Compile Include="Home.aspx.designer.cs">
-      <DependentUpon>Home.aspx</DependentUpon>
+    <Compile Include="default.aspx.designer.cs">
+      <DependentUpon>default.aspx</DependentUpon>
     </Compile>
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>

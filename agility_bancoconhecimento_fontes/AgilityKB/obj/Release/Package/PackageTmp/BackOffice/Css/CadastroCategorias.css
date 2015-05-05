@@ -1,0 +1,115 @@
+﻿.conteudo {
+    width: 1250px;
+    height: auto;
+}
+
+.dvCadastro {
+    width: 750px;
+    height: auto;
+    margin: 65px 275px 15px 265px;
+}
+
+.dvTituloPost {
+    width: 650px;
+    height: 35px;
+    margin: 5px 0px 0px 65px;
+    font-size: 16px;
+    font-family: Arial Narrow;
+    color: #696969;
+    text-align: center;
+}
+
+.dvErros {
+    width: 999px;
+    height: auto;
+    text-align: center;
+}
+
+.txtTitulo {
+    width: 300px;
+    height: 25px;
+    font-family: Arial Narrow;
+    font-size: 14px;
+    margin: 5px 95px 5px 1px;
+    float: right;
+}
+
+.lblErros {
+    font-family: Arial Narrow;
+    color: Red;
+    text-align: center;
+    font-size: 14px;
+    width: 699px;
+    margin: 5px 0px 5px 199px;
+}
+
+.lblSucesso {
+    font-family: Arial Narrow;
+    color: #3A4F63;
+    text-align: center;
+    font-size: 15px;
+    font-weight: 600;
+    width: 699px;
+    margin: 5px 0px 5px 5px;
+}
+
+.lblContexto {
+    width: 140px;
+    height: 25px;
+    font-family: Arial Narrow;
+    font-size: 15px;
+    margin: 30px 2px 2px 10px;
+    float: left;
+    text-align: left;
+}
+
+.contextoArvore {
+
+    width: 140px;
+    height: 25px;
+    font-family: Arial Narrow;
+    font-size: 15px;
+    margin: 30px 2px 2px 10px;
+    float: left;
+    text-align: left;
+}
+.controleArvore {
+    width: 670px;
+    margin: 10px 0px 1px 120px;
+    height: auto;
+    font-family: Arial Narrow;
+    font-size: 14px;
+}
+
+.dvBtns {
+    width: 650px;
+    height: 55px;
+    margin: 30px 0px 0px 170px;
+    font-size: 16px;
+    font-family: Arial Narrow;
+    color: #696969;
+    text-align: center;
+}
+
+
+.btnLimpar {
+    width: 100px;
+    height: 30px;
+    font-family: Arial Narrow;
+    font-size: 14px;
+    background-color: transparent;
+    float: left;
+    margin: 10px 5px 5px 220px;
+    border-right: 1px solid #9D9D9D;
+}
+
+.btnEnviar {
+    width: 100px;
+    height: 30px;
+    font-family: Arial Narrow;
+    font-size: 14px;
+    background-color: transparent;
+    float: right;
+    margin: 10px 205px 5px 5px;
+    border-right: 1px solid #9D9D9D;
+}

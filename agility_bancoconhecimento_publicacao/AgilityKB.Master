@@ -17,7 +17,7 @@
     <form runat="server">
         <div class="header">
             <div class="logo">
-                <a href="Home.aspx">
+                <a href="default.aspx">
                     <img alt="" class="imgLogo" src="Styles/Images/ImagensPersonalizadas/AgilityLogo.png" />
                 </a>
             </div>
@@ -54,7 +54,7 @@
                 <asp:Menu ID="NavigationMenu" runat="server" CssClass="menu" EnableViewState="false"
                     IncludeStyleBlock="false" Orientation="Horizontal">
                     <Items>
-                        <asp:MenuItem NavigateUrl="~/Home.aspx" Text="Home" />
+                        <asp:MenuItem NavigateUrl="~/default.aspx" Text="Home" />
                         <asp:MenuItem NavigateUrl="~/Sobre.aspx" Text="Sobre" />
                         <asp:MenuItem NavigateUrl="~/Biblioteca.aspx" Text="Biblioteca" />
                         <asp:MenuItem NavigateUrl="~/Contatos.aspx" Text="Contatos" />

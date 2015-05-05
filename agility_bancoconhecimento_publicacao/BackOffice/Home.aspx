@@ -13,7 +13,7 @@
                     <h3 class="menuHome">Cadastro de Usuários</h3>
                 </div>
             </a>
-            <a href="~/Home.aspx" id="LnkBtnOpcaoB" runat="server" class="linkOpcao">
+            <a href="~/default.aspx" id="LnkBtnOpcaoB" runat="server" class="linkOpcao">
                 <div id="OpcaoB" class="opcaoCadastroB">
                     <h3 class="menuHome">Voltar a Base</h3>
                 </div>

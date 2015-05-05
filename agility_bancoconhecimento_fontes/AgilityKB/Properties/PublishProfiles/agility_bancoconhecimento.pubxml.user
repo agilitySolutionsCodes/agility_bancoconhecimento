@@ -25,7 +25,7 @@ by editing this MSBuild file. In order to learn more about this please visit htt
       <publishTime>01/31/2013 12:41:00</publishTime>
     </File>
     <File Include="AgilityKB.Master">
-      <publishTime>04/21/2015 13:56:32</publishTime>
+      <publishTime>05/04/2015 15:32:38</publishTime>
     </File>
     <File Include="BackOffice/BackOffice.Master">
       <publishTime>07/16/2013 10:37:18</publishTime>
@@ -55,7 +55,7 @@ by editing this MSBuild file. In order to learn more about this please visit htt
       <publishTime>04/21/2015 14:40:04</publishTime>
     </File>
     <File Include="BackOffice/Home.aspx">
-      <publishTime>07/17/2013 14:30:22</publishTime>
+      <publishTime>05/04/2015 15:32:38</publishTime>
     </File>
     <File Include="BackOffice/Login.aspx">
       <publishTime>04/21/2015 14:18:29</publishTime>
@@ -64,16 +64,16 @@ by editing this MSBuild file. In order to learn more about this please visit htt
       <publishTime>04/17/2015 13:52:30</publishTime>
     </File>
     <File Include="bin/AgilityKB.Business.dll">
-      <publishTime>04/23/2015 16:58:21</publishTime>
+      <publishTime>05/04/2015 15:34:07</publishTime>
     </File>
     <File Include="bin/AgilityKB.dll">
-      <publishTime>04/23/2015 16:58:22</publishTime>
+      <publishTime>05/04/2015 15:34:08</publishTime>
     </File>
     <File Include="bin/AgilityKB.Entity.dll">
-      <publishTime>04/23/2015 16:58:20</publishTime>
+      <publishTime>05/04/2015 15:34:07</publishTime>
     </File>
     <File Include="bin/AgilityKBDAO.dll">
-      <publishTime>04/23/2015 16:58:21</publishTime>
+      <publishTime>05/04/2015 15:34:07</publishTime>
     </File>
     <File Include="bin/AjaxControlToolkit.dll">
       <publishTime>01/31/2013 12:41:00</publishTime>
@@ -143,6 +143,9 @@ by editing this MSBuild file. In order to learn more about this please visit htt
     </File>
     <File Include="CriacaoPosts.aspx">
       <publishTime>07/17/2013 13:10:24</publishTime>
+    </File>
+    <File Include="default.aspx">
+      <publishTime>05/04/2015 15:32:39</publishTime>
     </File>
     <File Include="Erro.aspx">
       <publishTime>03/18/2013 12:17:50</publishTime>
@@ -220,7 +223,7 @@ by editing this MSBuild file. In order to learn more about this please visit htt
       <publishTime>04/17/2015 10:30:32</publishTime>
     </File>
     <File Include="Styles/Css/BxSlider.css">
-      <publishTime>04/23/2015 16:55:59</publishTime>
+      <publishTime>04/23/2015 17:09:45</publishTime>
     </File>
     <File Include="Styles/Css/Contatos.css">
       <publishTime>01/31/2013 12:41:00</publishTime>
@@ -340,7 +343,7 @@ by editing this MSBuild file. In order to learn more about this please visit htt
       <publishTime>07/15/2013 15:15:42</publishTime>
     </File>
     <File Include="Web.config">
-      <publishTime>04/23/2015 16:58:22</publishTime>
+      <publishTime>05/04/2015 15:34:42</publishTime>
     </File>
   </ItemGroup>
 </Project>
