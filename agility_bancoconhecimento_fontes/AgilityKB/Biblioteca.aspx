@@ -57,7 +57,7 @@
                         <asp:Literal ID="litPost" runat="server" />
                     </div>
                     <div id="DataPost" class="dataPost" runat="server">
-                        <a href id="lnkArq" class="btnDownloadFonte" runat="server" target="http://192.168.61.20/BancoConhecimento/Uploads/Arquivos/"></a>
+                        <a href id="lnkArq" class="btnDownloadFonte" runat="server" target="http://bc.agilitysolutions.com.br/Uploads/Arquivos/"></a>
                         <asp:Label ID="LblData" CssClass="lblData" runat="server"></asp:Label>
                     </div>
                 </div>

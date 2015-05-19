@@ -155,8 +155,8 @@ namespace AgilityKB
                     imgUsuarioLogado.Visible = true;
                     imgUsuarioLogadoBig.Visible = true;
 
-                    imgUsuarioLogado.ImageUrl = Request.ApplicationPath + "/Uploads/Imgs/" + Session["ImagemUsuario"].ToString();
-                    imgUsuarioLogadoBig.ImageUrl = Request.ApplicationPath + "/Uploads/Imgs/" + Session["ImagemUsuario"].ToString();
+                    imgUsuarioLogado.ImageUrl = "Uploads/Imgs/" + Session["ImagemUsuario"].ToString();
+                    imgUsuarioLogadoBig.ImageUrl = "Uploads/Imgs/" + Session["ImagemUsuario"].ToString();
 
                     Label lblUsuarioLogado = (Label)Master.FindControl("LblUserLogado");
                     lblUsuarioLogado.Visible = true;

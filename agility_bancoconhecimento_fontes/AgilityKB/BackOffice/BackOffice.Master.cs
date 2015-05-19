@@ -70,7 +70,7 @@ namespace AgilityKB.BackOffice
         {
             Response.ContentType = "Application/msword";
             Response.AppendHeader("Content-Disposition", "attachment; filename=Documentacao Base Conhecimento.docx");
-            Response.TransmitFile(Server.MapPath("~/BancoConhecimento/Uploads/Arquivos/KBDoc.docx"));
+            Response.TransmitFile(Server.MapPath("~/Uploads/Arquivos/KBDoc.docx"));
             Response.End();
         }
 
@@ -81,7 +81,7 @@ namespace AgilityKB.BackOffice
 
         protected void BtnVoltarBase_Click(object sender, EventArgs e)
         {
-            Response.Redirect("/BancoConhecimento/default.aspx");
+            Response.Redirect("/default.aspx");
         }
 
         protected void BtnTermosUso_Click(object sender, EventArgs e)

@@ -25,8 +25,8 @@ namespace AgilityKB
                 else
                 {
                     CarregaUsuarios();
-                }   
-            }            
+                }
+            }
         }
 
         public UsuarioBusiness CarregaUsuarios()
@@ -48,8 +48,7 @@ namespace AgilityKB
                 vConteudo += "<div class='contatoMoldura'>";
                 vConteudo += "<div class='contatofoto' title='" + dr["Departamento"].ToString();
                 vConteudo += " '>";
-                vConteudo += "<img id='ImgContatos' style='width:130px; height: 97px; margin: 2px 1px 1px 1px; border: 1px solid #9D9D9D;' src='" +
-                                Request.ApplicationPath + "/Uploads/Imgs/";
+                vConteudo += "<img id='ImgContatos' style='width:130px; height: 97px; margin: 2px 1px 1px 1px; border: 1px solid #9D9D9D;' src='" + Request.ApplicationPath + "Uploads/Imgs/";
                 vConteudo += dr["Imagem"].ToString();
                 vConteudo += "' />";
                 vConteudo += "</div>";
@@ -58,7 +57,7 @@ namespace AgilityKB
                 vConteudo += dr["Nome"].ToString();
                 vConteudo += "</p>";
                 vConteudo += "<p class='fonteInfoEmail'>";
-                vConteudo += "<a href='" + "mailto:" + dr["Email"].ToString() + "?subject=Post Base de Conhecimento Agility" + "'" + "class='fonteInfoEmail' >" + dr                                        ["Email"].ToString() + "</a>";
+                vConteudo += "<a href='" + "mailto:" + dr["Email"].ToString() + "?subject=Post Base de Conhecimento Agility" + "'" + "class='fonteInfoEmail' >" + dr["Email"].ToString() + "</a>";
                 vConteudo += "</p>";
                 vConteudo += "<p class='fonteInfo'>";
                 vConteudo += "Tel: (11) " + dr["Telefone"].ToString();

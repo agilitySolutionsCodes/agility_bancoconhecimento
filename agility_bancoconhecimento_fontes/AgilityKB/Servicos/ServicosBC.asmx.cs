@@ -90,7 +90,7 @@ namespace AgilityKB.Servicos
             if (!string.IsNullOrEmpty(anexoPost.ToString()))
             {
                 nomeArq = "Donwload: " + anexoPost.ToString();
-                caminhoArq = "/BancoConhecimento/Uploads/Arquivos/" + anexoPost.ToString();
+                caminhoArq = "/Uploads/Arquivos/" + anexoPost.ToString();
             }
             else
             {

@@ -25,8 +25,8 @@ namespace AgilityKB
                     ImgUsuarioLogado.Visible = true;
                     ImgUsuarioLogadoBig.Visible = true;
 
-                    ImgUsuarioLogado.ImageUrl = Request.ApplicationPath + "/Uploads/Imgs/" + Session["ImagemUsuario"].ToString();
-                    ImgUsuarioLogadoBig.ImageUrl = Request.ApplicationPath + "/Uploads/Imgs/" + Session["ImagemUsuario"].ToString();
+                    ImgUsuarioLogado.ImageUrl = "Uploads/Imgs/" + Session["ImagemUsuario"].ToString();
+                    ImgUsuarioLogadoBig.ImageUrl = "Uploads/Imgs/" + Session["ImagemUsuario"].ToString();
                     
                     LblUserLogado.Visible = true;
                     LblUserLogadoBig.Visible = true;
