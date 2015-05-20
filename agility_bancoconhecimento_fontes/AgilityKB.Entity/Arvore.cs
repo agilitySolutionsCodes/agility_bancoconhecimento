@@ -9,14 +9,6 @@ namespace AgilityKB.Entity
     {
         public class Arvore
         {
-            public Arvore() 
-            {
-                IdNode = 0;
-                DescricaoNode = string.Empty;
-                AbaixoPai = 0;
-                Profundidade = 0;
-            }
-
             public int IdNode { get; set; }
             public string DescricaoNode { get; set; }
             public int AbaixoPai { get; set; }

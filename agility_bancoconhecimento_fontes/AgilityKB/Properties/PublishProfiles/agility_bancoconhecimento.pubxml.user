@@ -25,13 +25,13 @@ by editing this MSBuild file. In order to learn more about this please visit htt
       <publishTime>01/31/2013 12:41:00</publishTime>
     </File>
     <File Include="AgilityKB.Master">
-      <publishTime>05/04/2015 15:32:38</publishTime>
+      <publishTime>05/20/2015 09:33:04</publishTime>
     </File>
     <File Include="BackOffice/BackOffice.Master">
-      <publishTime>07/16/2013 10:37:18</publishTime>
+      <publishTime>05/20/2015 10:07:01</publishTime>
     </File>
     <File Include="BackOffice/CadastroCategorias.aspx">
-      <publishTime>04/21/2015 14:53:05</publishTime>
+      <publishTime>05/20/2015 10:17:10</publishTime>
     </File>
     <File Include="BackOffice/CadastroUsuarios.aspx">
       <publishTime>10/04/2013 11:13:58</publishTime>
@@ -43,7 +43,7 @@ by editing this MSBuild file. In order to learn more about this please visit htt
       <publishTime>04/21/2015 14:41:52</publishTime>
     </File>
     <File Include="BackOffice/Css/CadastroCategorias.css">
-      <publishTime>04/22/2015 11:42:59</publishTime>
+      <publishTime>05/20/2015 10:17:45</publishTime>
     </File>
     <File Include="BackOffice/Css/CadastroUsuarios.css">
       <publishTime>04/21/2015 14:16:28</publishTime>
@@ -64,16 +64,16 @@ by editing this MSBuild file. In order to learn more about this please visit htt
       <publishTime>05/15/2015 15:25:27</publishTime>
     </File>
     <File Include="bin/AgilityKB.Business.dll">
-      <publishTime>05/15/2015 15:26:57</publishTime>
+      <publishTime>05/20/2015 10:18:21</publishTime>
     </File>
     <File Include="bin/AgilityKB.dll">
-      <publishTime>05/15/2015 15:43:13</publishTime>
+      <publishTime>05/20/2015 10:18:22</publishTime>
     </File>
     <File Include="bin/AgilityKB.Entity.dll">
-      <publishTime>05/15/2015 15:26:56</publishTime>
+      <publishTime>05/20/2015 10:18:21</publishTime>
     </File>
     <File Include="bin/AgilityKBDAO.dll">
-      <publishTime>05/15/2015 15:26:56</publishTime>
+      <publishTime>05/20/2015 10:18:21</publishTime>
     </File>
     <File Include="bin/AjaxControlToolkit.dll">
       <publishTime>01/31/2013 12:41:00</publishTime>
@@ -337,13 +337,13 @@ by editing this MSBuild file. In order to learn more about this please visit htt
       <publishTime>04/21/2015 13:55:55</publishTime>
     </File>
     <File Include="Uploads/Arquivos/Logo_Agility.jpg">
-      <publishTime>01/31/2013 12:41:00</publishTime>
+      <publishTime>05/20/2015 09:59:35</publishTime>
     </File>
     <File Include="Uploads/Imgs/YuleFoto.JPG">
       <publishTime>07/15/2013 15:15:42</publishTime>
     </File>
     <File Include="Web.config">
-      <publishTime>05/15/2015 15:26:57</publishTime>
+      <publishTime>05/20/2015 10:18:23</publishTime>
     </File>
   </ItemGroup>
 </Project>

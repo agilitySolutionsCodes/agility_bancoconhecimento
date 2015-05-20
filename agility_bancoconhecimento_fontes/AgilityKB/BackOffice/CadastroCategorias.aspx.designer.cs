@@ -40,6 +40,15 @@ namespace AgilityKB.BackOffice {
         protected global::System.Web.UI.WebControls.TextBox TxtTitulo;
         
         /// <summary>
+        /// ControleText control.
+        /// </summary>
+        /// <remarks>
+        /// Auto-generated field.
+        /// To modify move field declaration from designer file to code-behind file.
+        /// </remarks>
+        protected global::System.Web.UI.HtmlControls.HtmlGenericControl ControleText;
+        
+        /// <summary>
         /// ControleArvore control.
         /// </summary>
         /// <remarks>

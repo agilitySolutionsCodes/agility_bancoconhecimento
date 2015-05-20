@@ -80,9 +80,9 @@
                 |
             <asp:LinkButton ID="BtnDocumentacao" CssClass="LnksBtnRodape" runat="server" Text="Documentação"
                 OnClick="BtnDocumentacao_Click" />
-                |
+           <%--     |
             <asp:LinkButton ID="BtnAdministrador" CssClass="LnksBtnRodape" runat="server" Text="Administrador"
-                OnClick="BtnAdministrador_Click" />
+                OnClick="BtnAdministrador_Click" />--%>
             </div>
         </div>
     </form>

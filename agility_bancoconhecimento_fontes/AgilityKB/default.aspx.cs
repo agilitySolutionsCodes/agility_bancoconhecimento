@@ -65,7 +65,7 @@ namespace AgilityKB
 
         #region Métodos
 
-        public String DescriptografarSenha(string senha)
+        public String CriptografarSenha(string senha)
         {
             des.Key = md5Crypto.ComputeHash(ASCIIEncoding.ASCII.GetBytes(Chave));
             des.Mode = CipherMode.ECB;
@@ -122,7 +122,7 @@ namespace AgilityKB
 
             else
             {
-                var vSenha = DescriptografarSenha(TxtSenha.Text);
+                var vSenha = CriptografarSenha(TxtSenha.Text);
                 usuario = usuarioB.AutenticaUsuario(TxtEmail.Text, vSenha);
 
                 //Valida se o usuário esta logado

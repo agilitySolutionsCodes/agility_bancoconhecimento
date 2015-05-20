@@ -73,12 +73,22 @@
     float: left;
     text-align: left;
 }
+
+.controleTexto {
+    width: 670px;
+    margin: 10px 0px 1px 120px;
+    height: 20px;
+    font-family: Arial Narrow;
+    font-size: 14px;
+}
+
 .controleArvore {
     width: 670px;
     margin: 10px 0px 1px 120px;
     height: auto;
     font-family: Arial Narrow;
     font-size: 14px;
+    float: left;
 }
 
 .dvBtns {

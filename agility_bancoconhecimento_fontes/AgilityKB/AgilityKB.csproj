@@ -140,7 +140,6 @@
     <Content Include="Styles\Images\ImagensPersonalizadas\teaser-3.jpg" />
     <Content Include="TermosUso.aspx" />
     <Content Include="Uploads\Arquivos\Logo_Agility.jpg" />
-    <Content Include="Uploads\Imgs\YuleFoto.JPG" />
     <Content Include="Web.config">
       <SubType>Designer</SubType>
     </Content>
@@ -276,6 +275,7 @@
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
+    <Folder Include="Uploads\Imgs\" />
   </ItemGroup>
   <ItemGroup>
     <Content Include="AgilityKB.Master" />
@@ -301,8 +301,6 @@
     <Content Include="BackOffice\BackOffice.Master" />
     <None Include="Properties\PublishProfiles\agility_bancoconhecimento.pubxml" />
     <None Include="Properties\PublishProfiles\Profile1.pubxml" />
-    <None Include="Uploads\Arquivos\Documentacao Base Conhecimento.docx" />
-    <None Include="Uploads\KBDoc.docx" />
   </ItemGroup>
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>

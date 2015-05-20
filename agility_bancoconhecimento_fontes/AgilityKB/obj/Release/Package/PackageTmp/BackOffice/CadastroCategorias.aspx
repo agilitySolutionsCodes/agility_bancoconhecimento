@@ -16,10 +16,12 @@
                     Nome da Categoria:</label>
                 <asp:TextBox ID="TxtTitulo" CssClass="txtTitulo" runat="server" />
             </div>
-            <div id="ControleArvore" class="controleArvore" runat="server">
+            <div id="ControleText" class="controleTexto" runat="server">
                 <label id="lblContexto" class="lblContexto">
                     Contexto:</label><br />
-                <br />
+            </div>
+
+            <div id="ControleArvore" class="controleArvore" runat="server">
                 <Uc:PostArvore ID="arvoreControl" runat="server" />
             </div>
 
