@@ -12,10 +12,3 @@ C:\Projetos\agility_bancoconhecimento\agility_bancoconhecimento_fontes\AgilityKB
 C:\Projetos\agility_bancoconhecimento\agility_bancoconhecimento_fontes\AgilityKBDAO\obj\Release\AgilityKB.DAO.csprojResolveAssemblyReference.cache
 C:\Projetos\agility_bancoconhecimento\agility_bancoconhecimento_fontes\AgilityKBDAO\obj\Release\AgilityKBDAO.dll
 C:\Projetos\agility_bancoconhecimento\agility_bancoconhecimento_fontes\AgilityKBDAO\obj\Release\AgilityKBDAO.pdb
-C:\Codes\agility_bancoconhecimento\agility_bancoconhecimento_fontes\AgilityKBDAO\bin\Release\AgilityKBDAO.dll
-C:\Codes\agility_bancoconhecimento\agility_bancoconhecimento_fontes\AgilityKBDAO\bin\Release\AgilityKBDAO.pdb
-C:\Codes\agility_bancoconhecimento\agility_bancoconhecimento_fontes\AgilityKBDAO\bin\Release\AgilityKB.Entity.dll
-C:\Codes\agility_bancoconhecimento\agility_bancoconhecimento_fontes\AgilityKBDAO\bin\Release\AgilityKB.Entity.pdb
-C:\Codes\agility_bancoconhecimento\agility_bancoconhecimento_fontes\AgilityKBDAO\obj\Release\AgilityKB.DAO.csprojResolveAssemblyReference.cache
-C:\Codes\agility_bancoconhecimento\agility_bancoconhecimento_fontes\AgilityKBDAO\obj\Release\AgilityKBDAO.dll
-C:\Codes\agility_bancoconhecimento\agility_bancoconhecimento_fontes\AgilityKBDAO\obj\Release\AgilityKBDAO.pdb
