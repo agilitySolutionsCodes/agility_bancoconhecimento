@@ -145,18 +145,18 @@
                 <div id="DvSenhaAtual" class="dvEstiloGenerico" runat="server" title="Senha">
                     <asp:Label ID="LblSenhaAtual" runat="server" CssClass="lblEstiloGenerico">
                      Senha Atual:</asp:Label>
-                    <asp:TextBox ID="TxtSenhaAtual" CssClass="txtEstiloGenericoSenha" runat="server" TextMode="Password" MaxLength="6" />
+                    <asp:TextBox ID="TxtSenhaAtual" CssClass="txtEstiloGenericoSenha" runat="server" TextMode="Password" MaxLength="15" />
                 </div>
                 <div id="DvSenha" class="dvEstiloGenerico" runat="server" title="Senha">
                     <asp:Label ID="LblSenha" runat="server" CssClass="lblEstiloGenerico">
                     Nova Senha:</asp:Label>
-                    <asp:TextBox ID="TxtSenha" CssClass="txtEstiloGenericoSenha" runat="server" TextMode="Password" MaxLength="6" />
+                    <asp:TextBox ID="TxtSenha" CssClass="txtEstiloGenericoSenha" runat="server" TextMode="Password" MaxLength="15" />
                 </div>
                 <div id="DvConfirmaSenha" class="dvEstiloGenerico" runat="server" title="Confirmação de Senha">
                     <asp:Label ID="LblConfirmaSenha" runat="server" CssClass="lblEstiloGenerico">
                     Confirmação Nova Senha:</asp:Label>
                     <asp:TextBox ID="TxtConfirmacaoSenha" CssClass="txtEstiloGenericoSenha" runat="server"
-                        TextMode="Password" MaxLength="6" />
+                        TextMode="Password" MaxLength="15" />
                 </div>
             </div>
             <div id="DvErros" runat="server" class="dvErros">
