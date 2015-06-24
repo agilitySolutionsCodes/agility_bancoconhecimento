@@ -9,8 +9,7 @@
     <link href="Styles/Css/MenuLateral.css" rel="stylesheet" type="text/css" />
     <link href="Styles/Css/Posts.css" rel="stylesheet" type="text/css" />
     <title>Crie Seu Post e contribua com a Base de Conhecimento</title>
-    <script type="text/javascript">
-    </script>
+
 </asp:Content>
 <asp:Content ID="Content2" ContentPlaceHolderID="MainContent" runat="server">
     <div id="Conteudo" class="conteudoPage">

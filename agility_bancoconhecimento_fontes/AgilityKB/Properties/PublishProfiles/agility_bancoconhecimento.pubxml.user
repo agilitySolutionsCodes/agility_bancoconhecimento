@@ -64,16 +64,16 @@ by editing this MSBuild file. In order to learn more about this please visit htt
       <publishTime>05/15/2015 15:25:27</publishTime>
     </File>
     <File Include="bin/AgilityKB.Business.dll">
-      <publishTime>06/15/2015 10:01:28</publishTime>
+      <publishTime>06/22/2015 14:48:48</publishTime>
     </File>
     <File Include="bin/AgilityKB.dll">
-      <publishTime>06/15/2015 10:01:35</publishTime>
+      <publishTime>06/22/2015 14:48:48</publishTime>
     </File>
     <File Include="bin/AgilityKB.Entity.dll">
-      <publishTime>06/15/2015 10:01:26</publishTime>
+      <publishTime>06/22/2015 14:48:47</publishTime>
     </File>
     <File Include="bin/AgilityKBDAO.dll">
-      <publishTime>06/15/2015 10:01:27</publishTime>
+      <publishTime>06/22/2015 14:48:47</publishTime>
     </File>
     <File Include="bin/AjaxControlToolkit.dll">
       <publishTime>01/31/2013 12:41:00</publishTime>
@@ -136,13 +136,13 @@ by editing this MSBuild file. In order to learn more about this please visit htt
       <publishTime>07/04/2013 10:25:55</publishTime>
     </File>
     <File Include="Controles/ControleArvore.ascx">
-      <publishTime>01/31/2013 12:41:00</publishTime>
+      <publishTime>06/16/2015 16:56:20</publishTime>
     </File>
     <File Include="Controles/MenuLateral.ascx">
       <publishTime>04/17/2015 14:33:24</publishTime>
     </File>
     <File Include="CriacaoPosts.aspx">
-      <publishTime>05/14/2015 16:51:38</publishTime>
+      <publishTime>06/16/2015 17:26:52</publishTime>
     </File>
     <File Include="default.aspx">
       <publishTime>05/04/2015 15:32:39</publishTime>
@@ -217,7 +217,7 @@ by editing this MSBuild file. In order to learn more about this please visit htt
       <publishTime>07/04/2013 10:38:05</publishTime>
     </File>
     <File Include="Styles/Css/Biblioteca.css">
-      <publishTime>04/17/2015 10:25:23</publishTime>
+      <publishTime>06/16/2015 16:31:23</publishTime>
     </File>
     <File Include="Styles/Css/Busca.css">
       <publishTime>04/17/2015 10:30:32</publishTime>
@@ -343,7 +343,7 @@ by editing this MSBuild file. In order to learn more about this please visit htt
       <publishTime>07/15/2013 15:15:42</publishTime>
     </File>
     <File Include="Web.config">
-      <publishTime>06/15/2015 10:04:24</publishTime>
+      <publishTime>06/22/2015 14:52:08</publishTime>
     </File>
   </ItemGroup>
 </Project>

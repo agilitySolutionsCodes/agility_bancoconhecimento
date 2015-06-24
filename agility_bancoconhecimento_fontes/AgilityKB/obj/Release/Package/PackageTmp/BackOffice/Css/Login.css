@@ -1,0 +1,70 @@
+﻿.conteudoForm {
+    width: 800px;
+    height: 440px;
+    margin: 10px 250px 10px 260px;
+    margin: 10px 250px 5px 320px\0/IE9;
+}
+
+.conteudoLogin {
+    width: 420px;
+    height: 50px;
+    margin: 35px 175px 10px 20px;
+    float: right;
+}
+
+.conteudoErros {
+    width: 420px;
+    height: 70px;
+    margin: 20px 175px 10px 20px;
+    float: right;
+}
+
+.lblLogin {
+    width: 205px;
+    height: 30px;
+    font-family: Arial Narrow;
+    font-size: 17px;
+    margin: 10px 10px 5px;
+}
+
+.lblSenha {
+    width: 200px;
+    height: 30px;
+    font-family: Arial Narrow;
+    font-size: 17px;
+    margin: 2px 10px 10px 5px;
+}
+
+
+.txtLogin {
+    width: 290px;
+    height: 35px;
+    font-family: Arial Narrow;
+    font-size: 17px;
+    margin: 5px 10px 10px 10px;
+}
+
+.txtSenha {
+    width: 290px;
+    height: 35px;
+    font-family: Arial Narrow;
+    font-size: 17px;
+    margin: 2px 10px 10px 10px;
+}
+
+.btnEnviar {
+    width: 80px;
+    height: 30px;
+    font-family: Arial Narrow;
+    font-size: 16px;
+    float: right;
+    margin-right: 55px;
+}
+
+.lblErros {
+    font-family: Arial Narrow;
+    color: Red;
+    text-align: center;
+    font-size: 13px;
+    width: 290px;
+}

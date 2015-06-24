@@ -1,5 +1,4 @@
-﻿<%@ Control Language="C#" AutoEventWireup="true" CodeBehind="ControleArvore.ascx.cs"
-    Inherits="AgilityKB.Controles.ControleArvore" %>
+﻿<%@ Control Language="C#" AutoEventWireup="true" CodeBehind="ControleArvore.ascx.cs" Inherits="AgilityKB.Controles.ControleArvore" %>
 <asp:TreeView ID="ArvoreBiblioteca" runat="server" CssClass="arvoreBiblioteca" Width="278px"
     ImageSet="Msdn" NodeIndent="10" NodeStyle-CssClass="arvore" Font-Size="14px"
     ForeColor="DimGray" OnSelectedNodeChanged="ArvoreBiblioteca_SelectedNodeChanged">

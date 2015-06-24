@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Text.RegularExpressions;
 using System.Linq;
 using System.Web;
 using System.Web.UI;
@@ -86,6 +87,9 @@ namespace AgilityKB
                 var dataHora = DateTime.Now.ToString("HH:MM");
 
                 PostsBusiness postsB = new PostsBusiness();
+
+                string conteudo = GetTextonly(TxtConteudo.Text);
+
                 //Chamada do Método RegistrarPost com os parametros
                 postsB.RegistrarPost(TxtTitulo.Text, TxtConteudo.Text, LblUploadArquivo.Text, dataHoje, Convert.ToString(dataHora), Session["CodUsuario"].ToString(),
                                       arvoreControl.IdSelecionado);
@@ -112,6 +116,13 @@ namespace AgilityKB
         {
             Session.Add("ArquivoSelecionado", PostUpload.FileName);
             post.IdContexto = Convert.ToInt32(IdNo);
+        }
+
+        public static string GetTextonly(string editorcontent)
+        {
+            string strtext = "";
+            strtext = Regex.Replace(editorcontent, @"<(.|\n)*?>", string.Empty);
+            return strtext;
         }
     }
 }
