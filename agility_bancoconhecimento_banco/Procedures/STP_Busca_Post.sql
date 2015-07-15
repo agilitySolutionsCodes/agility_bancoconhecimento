@@ -1,16 +1,11 @@
-USE [AgilityKBase]
 GO
 
-/****** Object:  StoredProcedure [dbo].[STP_Busca_Post]    Script Date: 04/15/2013 11:53:39 ******/
+/****** Object:  StoredProcedure [dbo].[STP_Busca_Post]    Script Date: 06/30/2015 16:00:15 ******/
 SET ANSI_NULLS ON
 GO
 
 SET QUOTED_IDENTIFIER ON
 GO
-
-
-
-
 
 -- =========================================================================      
 -- Autor:   Yule Souza. - Agility Solutions      
@@ -20,7 +15,7 @@ GO
 -- #001#  
 -- =========================================================================  
 
-ALTER PROCEDURE [dbo].[STP_Busca_Post]   
+CREATE PROCEDURE [dbo].[STP_Busca_Post]   
 (
 	@P_IdPost VARCHAR(10)
 )
@@ -35,6 +30,8 @@ SET NOCOUNT ON
 	ON P.IdPost = @P_IdPost AND U.IdUsuario = P.IdUsuario
 
 END
+
+
 
 
 

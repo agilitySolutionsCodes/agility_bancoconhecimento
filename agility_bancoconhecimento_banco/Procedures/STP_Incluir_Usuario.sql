@@ -1,15 +1,11 @@
-USE [AgilityKBase]
 GO
 
-/****** Object:  StoredProcedure [dbo].[STP_Incluir_Usuario]    Script Date: 04/15/2013 11:54:32 ******/
+/****** Object:  StoredProcedure [dbo].[STP_Incluir_Usuario]    Script Date: 06/30/2015 16:05:47 ******/
 SET ANSI_NULLS ON
 GO
 
 SET QUOTED_IDENTIFIER ON
 GO
-
-
-
 
 
 -- =========================================================================      
@@ -67,6 +63,8 @@ SET NOCOUNT ON
 	END		
 END      
 SET NOCOUNT OFF 
+
+
 
 
 

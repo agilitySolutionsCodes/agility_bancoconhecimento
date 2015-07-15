@@ -1,14 +1,11 @@
-USE [AgilityKBase]
 GO
 
-/****** Object:  StoredProcedure [dbo].[STP_Lista_Usuario_ById]    Script Date: 04/15/2013 11:55:32 ******/
+/****** Object:  StoredProcedure [dbo].[STP_Lista_Usuario_ById]    Script Date: 06/30/2015 16:07:46 ******/
 SET ANSI_NULLS ON
 GO
 
 SET QUOTED_IDENTIFIER ON
 GO
-
-
 
 
 -- =============================================================================       
@@ -44,6 +41,8 @@ BEGIN
     WHERE IdUsuario = @P_IdUsuario
 	
 END
+
+
 
 
 

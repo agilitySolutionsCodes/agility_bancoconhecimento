@@ -1,12 +1,13 @@
-USE [AgilityKBase]
 GO
 
-/****** Object:  StoredProcedure [dbo].[STP_Lista_Posts_Relativos ]    Script Date: 04/15/2013 11:55:15 ******/
+/****** Object:  StoredProcedure [dbo].[STP_Lista_Posts_Relativos ]    Script Date: 06/30/2015 16:06:41 ******/
 SET ANSI_NULLS ON
 GO
 
 SET QUOTED_IDENTIFIER ON
 GO
+
+
 
 
 
@@ -36,6 +37,8 @@ BEGIN
 	
 	SET NOCOUNT ON;
 END
+
+
 
 
 

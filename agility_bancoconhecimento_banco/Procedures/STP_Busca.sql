@@ -1,13 +1,11 @@
-USE [AgilityKBase]
 GO
 
-/****** Object:  StoredProcedure [dbo].[STP_Busca]    Script Date: 04/15/2013 11:52:25 ******/
+/****** Object:  StoredProcedure [dbo].[STP_Busca]    Script Date: 06/30/2015 15:59:54 ******/
 SET ANSI_NULLS ON
 GO
 
 SET QUOTED_IDENTIFIER ON
 GO
-
 
 
 -- =========================================================================      
@@ -18,7 +16,7 @@ GO
 -- #001#  
 -- =========================================================================  
 
-ALTER PROCEDURE [dbo].[STP_Busca]   
+CREATE PROCEDURE [dbo].[STP_Busca]   
 (
 	@P_PalavraChave VARCHAR(100)
 )
@@ -37,6 +35,8 @@ SET NOCOUNT ON
     ON QFT.IdUsuario = U.IdUsuario
 
 END
+
+
 
 
 

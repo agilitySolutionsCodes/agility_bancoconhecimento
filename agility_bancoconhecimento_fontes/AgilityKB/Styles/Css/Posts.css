@@ -34,7 +34,7 @@
 
 .dvConteudoPost {
     width: 800px;
-    min-height: 250px;
+    min-height: 285px;
     margin: 10px 0 0 35px;
     font-size: 15px;
     font-family: Arial Narrow;
@@ -69,7 +69,6 @@
 .txtConteudo {
     width: 700px;
     height: 220px;
-    border: 1px solid #000000;
     font-size: 14px;
     font-family: Arial Narrow;
     text-align: left;

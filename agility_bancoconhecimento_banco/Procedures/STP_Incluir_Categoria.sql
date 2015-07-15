@@ -1,12 +1,13 @@
-USE [AgilityKBase]
 GO
 
-/****** Object:  StoredProcedure [dbo].[STP_Incluir_Categoria]    Script Date: 04/15/2013 11:54:02 ******/
+/****** Object:  StoredProcedure [dbo].[STP_Incluir_Categoria]    Script Date: 06/30/2015 16:04:52 ******/
 SET ANSI_NULLS ON
 GO
 
 SET QUOTED_IDENTIFIER ON
 GO
+
+
 
 
 -- =========================================================================      
@@ -18,7 +19,7 @@ GO
 -- #001#  
 -- =========================================================================      
 
-ALTER PROCEDURE [dbo].[STP_Incluir_Categoria]      
+CREATE PROCEDURE [dbo].[STP_Incluir_Categoria]      
 
 (     
 	 @P_IdNode INTEGER = NULL,
@@ -35,6 +36,8 @@ SET NOCOUNT ON
 			VALUES(@P_DescricaoNode, @P_AbaixoPai, @P_Profundidade)		
 		END	
 END      
+
+
 
 
 GO

@@ -1,13 +1,11 @@
-USE [AgilityKBase]
 GO
 
-/****** Object:  StoredProcedure [dbo].[STP_Lista_Categorias_Home]    Script Date: 04/15/2013 11:54:43 ******/
+/****** Object:  StoredProcedure [dbo].[STP_Lista_Categorias_Home]    Script Date: 06/30/2015 16:06:08 ******/
 SET ANSI_NULLS ON
 GO
 
 SET QUOTED_IDENTIFIER ON
 GO
-
 
 -- =========================================================================      
 -- Autor:   Yule Souza. - Agility Solutions      
@@ -29,8 +27,6 @@ SET NOCOUNT ON
 		INNER JOIN ImgCategoria I
 		ON A.IdNode = I.IdCategoria
 END
-
-
 
 
 

@@ -1,12 +1,13 @@
-USE [AgilityKBase]
 GO
 
-/****** Object:  StoredProcedure [dbo].[STP_Incluir_Post]    Script Date: 04/15/2013 11:54:17 ******/
+/****** Object:  StoredProcedure [dbo].[STP_Incluir_Post]    Script Date: 06/30/2015 16:05:33 ******/
 SET ANSI_NULLS ON
 GO
 
 SET QUOTED_IDENTIFIER ON
 GO
+
+
 
 
 -- =========================================================================      
@@ -39,6 +40,8 @@ SET NOCOUNT ON
 			VALUES(@P_Titulo, @P_Conteudo, @P_Anexo, @P_Data, @P_Hora, @P_IdUsuario, @P_IdContexto)		
 		END	
 END      
+
+
 
 
 GO

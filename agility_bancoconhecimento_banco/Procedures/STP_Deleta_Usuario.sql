@@ -1,14 +1,12 @@
-USE [AgilityKBase]
+USE [bc6]
 GO
 
-/****** Object:  StoredProcedure [dbo].[STP_Deleta_Usuario]    Script Date: 04/15/2013 11:53:49 ******/
+/****** Object:  StoredProcedure [dbo].[STP_Deleta_Usuario]    Script Date: 06/30/2015 16:00:36 ******/
 SET ANSI_NULLS ON
 GO
 
 SET QUOTED_IDENTIFIER ON
 GO
-
-
 
 -- =========================================================================      
 -- Autor:		  Yule Souza - Agility Solutions      
@@ -19,7 +17,7 @@ GO
 -- #001#  
 -- =========================================================================    
 
-ALTER PROCEDURE [dbo].[STP_Deleta_Usuario]    
+CREATE PROCEDURE [dbo].[STP_Deleta_Usuario]    
 (     
  @P_IdUsuario INT
 )       
@@ -30,6 +28,8 @@ SET NOCOUNT ON
 	DELETE FROM Usuarios WHERE @P_IdUsuario = IdUsuario
 END      
 SET NOCOUNT OFF 
+
+
 
 
 

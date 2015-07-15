@@ -1,13 +1,11 @@
-USE [AgilityKBase]
 GO
 
-/****** Object:  StoredProcedure [dbo].[STP_Aceita_TermosUso]    Script Date: 04/15/2015 11:56:15 ******/
+/****** Object:  StoredProcedure [dbo].[STP_Aceita_TermosUso]    Script Date: 06/30/2015 15:58:33 ******/
 SET ANSI_NULLS ON
 GO
 
 SET QUOTED_IDENTIFIER ON
 GO
-
 
 
 -- =======================================================================================================      
@@ -35,9 +33,6 @@ SET NOCOUNT ON
 	
 END      
 SET NOCOUNT OFF 
-
-
-
 
 
 GO

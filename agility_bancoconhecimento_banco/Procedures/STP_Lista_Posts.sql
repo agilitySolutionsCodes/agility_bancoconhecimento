@@ -1,12 +1,13 @@
-USE [AgilityKBase]
 GO
 
-/****** Object:  StoredProcedure [dbo].[STP_Lista_Posts]    Script Date: 04/15/2013 11:54:55 ******/
+/****** Object:  StoredProcedure [dbo].[STP_Lista_Posts]    Script Date: 06/30/2015 16:06:25 ******/
 SET ANSI_NULLS ON
 GO
 
 SET QUOTED_IDENTIFIER ON
 GO
+
+
 
 
 -- =========================================================================      
@@ -34,14 +35,6 @@ SET NOCOUNT ON
 	WHERE PArvore.IdNode = @P_IdNodeGalho	
 	
 END
-
-
-
-
-
-
-
-
 
 
 

@@ -1,17 +1,11 @@
-USE [AgilityKBase]
 GO
 
-/****** Object:  StoredProcedure [dbo].[STP_Autenticar_Usuario]    Script Date: 04/15/2013 15:42:45 ******/
+/****** Object:  StoredProcedure [dbo].[STP_Autenticar_Usuario]    Script Date: 06/30/2015 15:59:37 ******/
 SET ANSI_NULLS ON
 GO
 
 SET QUOTED_IDENTIFIER ON
 GO
-
-
-
-
-
 
 -- =========================================================================      
 -- Autor:   Yule Souza. - Agility Solutions      
@@ -21,7 +15,7 @@ GO
 -- #001#  
 -- =========================================================================  
     
-ALTER PROCEDURE [dbo].[STP_Autenticar_Usuario]      
+CREATE PROCEDURE [dbo].[STP_Autenticar_Usuario]      
 (   
  @P_Email VARCHAR(50),
  @P_Senha VARCHAR(30),
@@ -57,7 +51,9 @@ SET NOCOUNT ON
 			   
 		FROM Usuarios U (NOLOCK) 
 		LEFT JOIN Posts P  
-		ON U.Email = @P_Email AND U.IdUsuario = P.IdUsuario
+		ON U.IdUsuario = P.IdUsuario
+		
+		WHERE Email = @P_Email
 		
 		GROUP BY
 		U.Senha,
@@ -80,6 +76,11 @@ SET NOCOUNT ON
 	END
 END      
 SET NOCOUNT OFF 
+
+
+
+
+
 
 
 
